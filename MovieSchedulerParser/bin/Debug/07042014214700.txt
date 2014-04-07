@@ -1,0 +1,1595 @@
+07/04/2014-21:47:00 : ************************PROGRAM INVOKE***************************
+07/04/2014-21:47:01 : Connect to http://lottecinemavn.com/vi-vn/phim-%C4%91ang-chieu.aspx
+07/04/2014-21:47:01 : Begin Parse A Movie
+07/04/2014-21:47:01 : Parse movie detail at http://lottecinemavn.com/vi-vn/Phim/CAPTAIN-AMERICA-2-CHIEN-BINH-MUA-ĐONG.aspx
+07/04/2014-21:47:02 : Parse ticket info
+07/04/2014-21:47:02 : Parsed : http://lottecinemavn.com/vi-vn/Phim/CAPTAIN-AMERICA-2-CHIEN-BINH-MUA-ĐONG.aspx
+07/04/2014-21:47:02 : http://lottecinemavn.com/vi-vn/Phim/CAPTAIN-AMERICA-2-CHIEN-BINH-MUA-ĐONG.aspx
+http://www.youtube.com/embed/clZjCw1o7yg
+CAPTAIN AMERICA 2: CHIẾN ...
+Anthony Russo, Joe Russo
+2h 8p
+Hành động, Phiêu lưu, Viễn tưởng
+Lotte NamSaiGon 07/04/2014 09:05  11:35  16:35  21:35  10:50  13:20  18:20  20:50 
+Lotte NamSaiGon 08/04/2014 09:05  11:35  16:35  21:35  10:50  13:20  18:20  20:50 
+Lotte NamSaiGon 09/04/2014 09:05  11:35  10:50  18:20  20:50 
+Lotte NamSaiGon 10/04/2014 09:05  11:35  16:35  21:35  10:50  13:20  18:20  20:50 
+Lotte Diamond 07/04/2014 09:00  13:50  16:15  18:40  21:05  19:40  15:30  20:30 
+Lotte Diamond 08/04/2014 09:00  13:50  16:15  18:40  21:05  19:40  15:30  20:30 
+Lotte Diamond 09/04/2014 09:00  13:50  16:15  18:40  21:05  19:40  15:30  20:30 
+Lotte Diamond 10/04/2014 09:00  13:50  16:15  18:40  21:05  19:40  15:30  20:30 
+Lotte Landmark 07/04/2014 10:20  15:30  08:40  11:15  13:50  16:25  19:00  21:35 
+Lotte Landmark 08/04/2014 10:20  15:30  08:40  11:15  13:50  16:25  19:00  21:35 
+Lotte Landmark 09/04/2014 10:20  15:30  08:40  11:15  13:50  16:25  19:00  21:35 
+Lotte Landmark 10/04/2014 10:20  15:30  08:40  11:15  13:50  16:25  19:00  21:35 
+Lotte NhaTrang 07/04/2014 09:30  12:30  15:00  17:30  20:00 
+Lotte NhaTrang 08/04/2014 09:30  12:30  15:00  17:30  20:00 
+Lotte NhaTrang 09/04/2014 09:30  12:30  15:00  17:30  20:00 
+Lotte NhaTrang 10/04/2014 09:30  12:30  15:00  17:30  20:00 
+Lotte HaDong 07/04/2014 12:25  17:50  08:45  11:20  13:55  16:30  19:05  21:40 
+Lotte HaDong 08/04/2014 12:25  17:50  08:45  11:20  13:55  16:30  19:05  21:40 
+Lotte HaDong 09/04/2014 12:25  17:50  08:45  11:20  13:55  16:30  19:05  21:40 
+Lotte HaDong 10/04/2014 12:25  17:50  08:45  11:20  13:55  16:30  19:05  21:40 
+Lotte DongNai 07/04/2014 17:00  11:20  13:45  16:10  18:35  21:00  09:30  16:45  21:45 
+Lotte DongNai 08/04/2014 17:00  11:20  13:45  16:10  18:35  21:00  09:30  16:45  21:45 
+Lotte DongNai 09/04/2014 17:00  11:20  13:45  16:10  18:35  21:00  09:30  16:45  21:45 
+Lotte DongNai 10/04/2014 17:00  11:20  13:45  16:10  18:35  21:00  09:30  16:45  21:45 
+Lotte DaNang 07/04/2014 08:30  11:00  13:35  17:55  20:30 
+Lotte DaNang 08/04/2014 08:30  11:00  13:35  17:55  20:30 
+Lotte DaNang 09/04/2014 08:30  11:00  13:35  17:55  20:30 
+Lotte DaNang 10/04/2014 08:30  11:00  13:35  17:55  20:30 
+Lotte CongHoa 07/04/2014 11:40  19:40  09:50  12:30  15:10  17:50  20:30 
+Lotte CongHoa 08/04/2014 11:40  19:40  09:50  12:30  15:10  17:50  20:30 
+Lotte CongHoa 09/04/2014 11:40  19:40  09:50  12:30  15:10  17:50  20:30 
+Lotte CongHoa 10/04/2014 11:40  19:40  09:50  12:30  15:10  17:50  20:30 
+Lotte BinhDuong 07/04/2014 09:40  12:15  17:30  08:45  15:35  20:50 
+Lotte BinhDuong 08/04/2014 09:40  12:15  17:30  08:45  15:35  20:50 
+Lotte BinhDuong 09/04/2014 09:40  12:15  17:30  08:45  15:35  20:50 
+Lotte BinhDuong 10/04/2014 09:40  12:15  17:30  08:45  15:35  20:50 
+Lotte PhanThiet 07/04/2014 08:10  13:10  15:40  09:45  16:10 
+Lotte PhanThiet 08/04/2014 08:10  13:10  15:40  09:45  16:10 
+Lotte PhanThiet 09/04/2014 08:10  13:10  15:40  09:45  16:10 
+Lotte PhanThiet 10/04/2014 08:10  13:10  15:40  09:45  16:10 
+
+07/04/2014-21:47:02 : Begin Parse A Movie
+07/04/2014-21:47:02 : Parse movie detail at http://lottecinemavn.com/vi-vn/Phim/CAPTAIN-AMERICA-2-CHIEN-BINH-MUA-ĐONG-(1).aspx
+07/04/2014-21:47:03 : Parse ticket info
+07/04/2014-21:47:03 : Parsed : http://lottecinemavn.com/vi-vn/Phim/CAPTAIN-AMERICA-2-CHIEN-BINH-MUA-ĐONG-(1).aspx
+07/04/2014-21:47:03 : http://lottecinemavn.com/vi-vn/Phim/CAPTAIN-AMERICA-2-CHIEN-BINH-MUA-ĐONG-(1).aspx
+http://www.youtube.com/embed/clZjCw1o7yg
+(3D) CAPTAIN AMERICA 2: ...
+Anthony Russo, Joe Russo
+2h 8p
+Hành động, Phiêu lưu, Viễn tưởng
+Lotte NamSaiGon 07/04/2014 14:05  19:05  08:20  15:50 
+Lotte NamSaiGon 08/04/2014 14:05  19:05  08:20  15:50 
+Lotte NamSaiGon 09/04/2014 14:05  08:20  15:50 
+Lotte NamSaiGon 10/04/2014 14:05  19:05  08:20  15:50 
+Lotte Diamond 07/04/2014 11:25 
+Lotte Diamond 08/04/2014 11:25 
+Lotte Diamond 09/04/2014 11:25 
+Lotte Diamond 10/04/2014 11:25 
+Lotte Landmark 07/04/2014 12:55  18:05  20:40 
+Lotte Landmark 08/04/2014 12:55  18:05  20:40 
+Lotte Landmark 09/04/2014 12:55  18:05  20:40 
+Lotte Landmark 10/04/2014 12:55  18:05  20:40 
+Lotte NhaTrang 07/04/2014 08:35  11:05  13:35  16:05  18:35  21:05 
+Lotte NhaTrang 08/04/2014 08:35  11:05  13:35  16:05  18:35  21:05 
+Lotte NhaTrang 09/04/2014 08:35  11:05  13:35  16:05  18:35  21:05 
+Lotte NhaTrang 10/04/2014 08:35  11:05  13:35  16:05  18:35  21:05 
+Lotte HaDong 07/04/2014 09:45  15:05  20:35 
+Lotte HaDong 08/04/2014 09:45  15:05  20:35 
+Lotte HaDong 09/04/2014 09:45  15:05  20:35 
+Lotte HaDong 10/04/2014 09:45  15:05  20:35 
+Lotte DongNai 07/04/2014 11:55  14:20  19:20 
+Lotte DongNai 08/04/2014 11:55  14:20  19:20 
+Lotte DongNai 09/04/2014 11:55  14:20  19:20 
+Lotte DongNai 10/04/2014 11:55  14:20  19:20 
+Lotte DaNang 07/04/2014 09:15  11:45  16:05  18:40  21:15 
+Lotte DaNang 08/04/2014 09:15  11:45  16:05  18:40  21:15 
+Lotte DaNang 09/04/2014 11:45 
+Lotte DaNang 10/04/2014 09:15  11:45  16:05  18:40  21:15 
+Lotte CongHoa 07/04/2014 09:00  14:20  17:00 
+Lotte CongHoa 08/04/2014 09:00  14:20  17:00 
+Lotte CongHoa 09/04/2014 09:00  14:20  17:00 
+Lotte CongHoa 10/04/2014 09:00  14:20  17:00 
+Lotte BinhDuong 07/04/2014 14:55  20:10  18:15 
+Lotte BinhDuong 08/04/2014 14:55  20:10  18:15 
+Lotte BinhDuong 09/04/2014 14:55  20:10  18:15 
+Lotte BinhDuong 10/04/2014 14:55  20:10  18:15 
+Lotte PhanThiet 07/04/2014 10:40  18:10  20:40 
+Lotte PhanThiet 08/04/2014 10:40  18:10  20:40 
+Lotte PhanThiet 09/04/2014 10:40  18:10  20:40 
+Lotte PhanThiet 10/04/2014 10:40  18:10  20:40 
+
+07/04/2014-21:47:03 : Begin Parse A Movie
+07/04/2014-21:47:03 : Parse movie detail at http://lottecinemavn.com/vi-vn/Phim/ĐAI-NAO-HOC-ĐUONG.aspx
+07/04/2014-21:47:04 : Parse ticket info
+07/04/2014-21:47:04 : Parsed : http://lottecinemavn.com/vi-vn/Phim/ĐAI-NAO-HOC-ĐUONG.aspx
+07/04/2014-21:47:04 : http://lottecinemavn.com/vi-vn/Phim/ĐAI-NAO-HOC-ĐUONG.aspx
+http://www.youtube.com/embed/FQa2vTpmZKM
+ĐẠI NÁO HỌC ĐƯỜNG ...
+Lê Bảo Trung
+
+Hài
+
+07/04/2014-21:47:04 : Begin Parse A Movie
+07/04/2014-21:47:04 : Parse movie detail at http://lottecinemavn.com/vi-vn/Phim/BAO-OAN.aspx
+07/04/2014-21:47:05 : Parse ticket info
+07/04/2014-21:47:05 : Parsed : http://lottecinemavn.com/vi-vn/Phim/BAO-OAN.aspx
+07/04/2014-21:47:05 : http://lottecinemavn.com/vi-vn/Phim/BAO-OAN.aspx
+http://www.youtube.com/embed/sCNuq7Q099U?rel=0
+BÁO OÁN (THE SECOND ...
+Ng Tin Chi, Herman Yau
+
+Kinh dị, Hồi hộp
+Lotte NamSaiGon 07/04/2014 10:55  14:30  16:05  17:40  21:20 
+Lotte NamSaiGon 08/04/2014 10:55  14:30  16:05  17:40  21:20 
+Lotte NamSaiGon 09/04/2014 10:55  17:40  21:20 
+Lotte NamSaiGon 10/04/2014 10:55  14:30  16:05  17:40  21:20 
+Lotte Diamond 07/04/2014 08:10  13:20  14:55  16:30  18:05  22:05 
+Lotte Diamond 08/04/2014 08:10  13:20  14:55  16:30  18:05  22:05 
+Lotte Diamond 09/04/2014 08:10  13:20  14:55  16:30  18:05  22:05 
+Lotte Diamond 10/04/2014 08:10  13:20  14:55  16:30  18:05  22:05 
+Lotte Landmark 07/04/2014 09:25  13:30  15:15  19:20  21:05 
+Lotte Landmark 08/04/2014 09:25  13:30  15:15  19:20  21:05 
+Lotte Landmark 09/04/2014 09:25  13:30  15:15  19:20  21:05 
+Lotte Landmark 10/04/2014 09:25  13:30  15:15  19:20  21:05 
+Lotte NhaTrang 07/04/2014 08:40  12:10  16:10  19:40 
+Lotte NhaTrang 08/04/2014 08:40  12:10  16:10  19:40 
+Lotte NhaTrang 09/04/2014 08:40  12:10  16:10  19:40 
+Lotte NhaTrang 10/04/2014 08:40  12:10  16:10  19:40 
+Lotte HaDong 07/04/2014 08:30  10:15  16:35  20:50  09:20  11:05  12:50  14:35  18:15  20:05  21:50 
+Lotte HaDong 08/04/2014 08:30  10:15  16:35  20:50  09:20  11:05  12:50  14:35  18:15  20:05  21:50 
+Lotte HaDong 09/04/2014 08:30  10:15  16:35  20:50  09:20  11:05  12:50  14:35  18:15  20:05  21:50 
+Lotte HaDong 10/04/2014 08:30  10:15  16:35  20:50  09:20  11:05  12:50  14:35  18:15  20:05  21:50 
+Lotte DongNai 07/04/2014 12:50  21:55  08:45  12:10  15:50  19:10  20:40  22:10 
+Lotte DongNai 08/04/2014 12:50  21:55  08:45  12:10  15:50  19:10  20:40  22:10 
+Lotte DongNai 09/04/2014 12:50  21:55  08:45  12:10  15:50  19:10  20:40  22:10 
+Lotte DongNai 10/04/2014 12:50  21:55  08:45  12:10  15:50  19:10  20:40  22:10 
+Lotte DaNang 07/04/2014 09:00  12:50  14:30  16:15  18:00  19:40 
+Lotte DaNang 08/04/2014 09:00  12:50  14:30  16:15  18:00  19:40 
+Lotte DaNang 09/04/2014 09:00  14:30  16:15  19:40 
+Lotte DaNang 10/04/2014 09:00  12:50  14:30  16:15  18:00  19:40 
+Lotte CongHoa 07/04/2014 10:00  11:50  13:40  15:30  17:20  19:10  21:00 
+Lotte CongHoa 08/04/2014 10:00  11:50  13:40  15:30  17:20  19:10  21:00 
+Lotte CongHoa 09/04/2014 10:00  11:50  13:40  15:30  17:20  19:10  21:00 
+Lotte CongHoa 10/04/2014 10:00  11:50  13:40  15:30  17:20  19:10  21:00 
+Lotte BinhDuong 07/04/2014 11:50  16:00  17:45  19:30  21:15 
+Lotte BinhDuong 08/04/2014 11:50  16:00  17:45  19:30  21:15 
+Lotte BinhDuong 09/04/2014 11:50  16:00  17:45  19:30  21:15 
+Lotte BinhDuong 10/04/2014 11:50  16:00  17:45  19:30  21:15 
+Lotte PhanThiet 07/04/2014 08:00  14:40  16:20  20:30  22:10 
+Lotte PhanThiet 08/04/2014 08:00  14:40  16:20  20:30  22:10 
+Lotte PhanThiet 09/04/2014 08:00  14:40  16:20  20:30  22:10 
+Lotte PhanThiet 10/04/2014 08:00  14:40  16:20  20:30  22:10 
+
+07/04/2014-21:47:05 : Begin Parse A Movie
+07/04/2014-21:47:05 : Parse movie detail at http://lottecinemavn.com/vi-vn/Phim/THUAT-XEM-TUONG-(FESTIVAL).aspx
+07/04/2014-21:47:06 : Parse ticket info
+07/04/2014-21:47:06 : Parsed : http://lottecinemavn.com/vi-vn/Phim/THUAT-XEM-TUONG-(FESTIVAL).aspx
+07/04/2014-21:47:06 : http://lottecinemavn.com/vi-vn/Phim/THUAT-XEM-TUONG-(FESTIVAL).aspx
+http://www.youtube.com/embed/DbKyppiA9qU
+THUẬT XEM TƯỚNG (FESTIVAL)
+Han Jae-Rim
+2 tiếng
+Tâm lý, Lịch sử
+
+07/04/2014-21:47:06 : Begin Parse A Movie
+07/04/2014-21:47:06 : Parse movie detail at http://lottecinemavn.com/vi-vn/Phim/ĐAI-HONG-THUY.aspx
+07/04/2014-21:47:08 : Parse ticket info
+07/04/2014-21:47:08 : Parsed : http://lottecinemavn.com/vi-vn/Phim/ĐAI-HONG-THUY.aspx
+07/04/2014-21:47:08 : http://lottecinemavn.com/vi-vn/Phim/ĐAI-HONG-THUY.aspx
+http://www.youtube.com/embed/MCCcmhhx2-k
+ĐẠI HỒNG THỦY (NOAH)
+Darren Aronofsky
+1 tiếng 40 phút
+Phiêu lưu, Thần thoại
+Lotte NamSaiGon 07/04/2014 08:35  13:00  19:20 
+Lotte NamSaiGon 08/04/2014 08:35  13:00  19:20 
+Lotte NamSaiGon 09/04/2014 08:35  19:20 
+Lotte NamSaiGon 10/04/2014 08:35  13:00  19:20 
+Lotte Diamond 07/04/2014 08:40  18:00 
+Lotte Diamond 08/04/2014 08:40  18:00 
+Lotte Diamond 09/04/2014 08:40  18:00 
+Lotte Diamond 10/04/2014 08:40  18:00 
+Lotte Landmark 07/04/2014 11:25  18:30  21:05 
+Lotte Landmark 08/04/2014 11:25  18:30  21:05 
+Lotte Landmark 09/04/2014 11:25  18:30  21:05 
+Lotte Landmark 10/04/2014 11:25  18:30  21:05 
+Lotte NhaTrang 07/04/2014 09:00  15:35  20:20 
+Lotte NhaTrang 08/04/2014 09:00  15:35  20:20 
+Lotte NhaTrang 09/04/2014 09:00  15:35  20:20 
+Lotte NhaTrang 10/04/2014 09:00  15:35  20:20 
+Lotte HaDong 07/04/2014 09:30  12:15  15:00  20:30 
+Lotte HaDong 08/04/2014 09:30  12:15  15:00  20:30 
+Lotte HaDong 09/04/2014 09:30  12:15  15:00  20:30 
+Lotte HaDong 10/04/2014 09:30  12:15  15:00  20:30 
+Lotte DongNai 07/04/2014 08:30  19:25 
+Lotte DongNai 08/04/2014 08:30  19:25 
+Lotte DongNai 09/04/2014 08:30  19:25 
+Lotte DongNai 10/04/2014 08:30  19:25 
+Lotte DaNang 07/04/2014 08:40  11:10  21:00 
+Lotte DaNang 08/04/2014 08:40  11:10  21:00 
+Lotte DaNang 09/04/2014 08:40  21:00 
+Lotte DaNang 10/04/2014 08:40  11:10  21:00 
+Lotte CongHoa 07/04/2014 10:40  15:00  19:20 
+Lotte CongHoa 08/04/2014 10:40  15:00  19:20 
+Lotte CongHoa 09/04/2014 10:40  15:00  19:20 
+Lotte CongHoa 10/04/2014 10:40  15:00  19:20 
+Lotte BinhDuong 07/04/2014 10:45  18:00  20:35 
+Lotte BinhDuong 08/04/2014 10:45  18:00  20:35 
+Lotte BinhDuong 09/04/2014 10:45  18:00  20:35 
+Lotte BinhDuong 10/04/2014 10:45  18:00  20:35 
+Lotte PhanThiet 07/04/2014 09:40  12:10 
+Lotte PhanThiet 08/04/2014 09:40  12:10 
+Lotte PhanThiet 09/04/2014 09:40  12:10 
+Lotte PhanThiet 10/04/2014 09:40  12:10 
+
+07/04/2014-21:47:08 : Begin Parse A Movie
+07/04/2014-21:47:08 : Parse movie detail at http://lottecinemavn.com/vi-vn/Phim/ĐAI-HONG-THUY-(1).aspx
+07/04/2014-21:47:08 : Parse ticket info
+07/04/2014-21:47:08 : Parsed : http://lottecinemavn.com/vi-vn/Phim/ĐAI-HONG-THUY-(1).aspx
+07/04/2014-21:47:08 : http://lottecinemavn.com/vi-vn/Phim/ĐAI-HONG-THUY-(1).aspx
+http://www.youtube.com/embed/MCCcmhhx2-k
+(3D) ĐẠI HỒNG THỦY (NOAH)
+Darren Aronofsky
+1 tiếng 40 phút
+Phiêu lưu, Thần thoại
+Lotte Diamond 07/04/2014 13:00 
+Lotte Diamond 08/04/2014 13:00 
+Lotte Diamond 09/04/2014 13:00 
+Lotte Diamond 10/04/2014 13:00 
+Lotte Landmark 07/04/2014 14:00 
+Lotte Landmark 08/04/2014 14:00 
+Lotte Landmark 09/04/2014 14:00 
+Lotte Landmark 10/04/2014 14:00 
+Lotte HaDong 07/04/2014 17:45 
+Lotte HaDong 08/04/2014 17:45 
+Lotte HaDong 09/04/2014 17:45 
+Lotte HaDong 10/04/2014 17:45 
+Lotte DongNai 07/04/2014 14:20 
+Lotte DaNang 07/04/2014 16:25 
+Lotte DaNang 08/04/2014 16:25 
+Lotte DaNang 09/04/2014  
+Lotte DaNang 10/04/2014 16:25 
+Lotte PhanThiet 07/04/2014 18:00 
+Lotte PhanThiet 08/04/2014 18:00 
+Lotte PhanThiet 09/04/2014 18:00 
+Lotte PhanThiet 10/04/2014 18:00 
+
+07/04/2014-21:47:08 : Begin Parse A Movie
+07/04/2014-21:47:08 : Parse movie detail at http://lottecinemavn.com/vi-vn/Phim/300-ĐE-CHE-TROI-DAY.aspx
+07/04/2014-21:47:09 : Parse ticket info
+07/04/2014-21:47:09 : Parsed : http://lottecinemavn.com/vi-vn/Phim/300-ĐE-CHE-TROI-DAY.aspx
+07/04/2014-21:47:09 : http://lottecinemavn.com/vi-vn/Phim/300-ĐE-CHE-TROI-DAY.aspx
+http://www.youtube.com/embed/KbCC0QBgF_Y
+300 - ĐẾ CHẾ TRỖI DẬY
+Noam Murro
+1 tiếng 40 phút
+Hành động
+Lotte NamSaiGon 07/04/2014 09:20  13:15  17:30 
+Lotte NamSaiGon 08/04/2014 09:20  13:15  17:30 
+Lotte NamSaiGon 10/04/2014 09:20  13:15  17:30 
+Lotte HaDong 07/04/2014 09:10  17:40 
+Lotte HaDong 08/04/2014 09:10  17:40 
+Lotte HaDong 09/04/2014 09:10  17:40 
+Lotte HaDong 10/04/2014 09:10  17:40 
+Lotte CongHoa 07/04/2014 09:10  13:00  16:50 
+Lotte CongHoa 08/04/2014 09:10  13:00  16:50 
+Lotte CongHoa 09/04/2014 09:10  13:00  16:50 
+Lotte CongHoa 10/04/2014 09:10  13:00  16:50 
+
+07/04/2014-21:47:09 : Begin Parse A Movie
+07/04/2014-21:47:09 : Parse movie detail at http://lottecinemavn.com/vi-vn/Phim/300-ĐE-CHE-TROI-DAY-(1).aspx
+07/04/2014-21:47:10 : Parse ticket info
+07/04/2014-21:47:10 : Parsed : http://lottecinemavn.com/vi-vn/Phim/300-ĐE-CHE-TROI-DAY-(1).aspx
+07/04/2014-21:47:10 : http://lottecinemavn.com/vi-vn/Phim/300-ĐE-CHE-TROI-DAY-(1).aspx
+http://www.youtube.com/embed/KbCC0QBgF_Y
+(3D) 300 - ĐẾ CHẾ TRỖI DẬY
+Noam Murro
+1 tiếng 40 phút
+Hành động
+Lotte Landmark 07/04/2014 09:30  16:35 
+Lotte Landmark 08/04/2014 09:30  16:35 
+Lotte Landmark 09/04/2014 09:30  16:35 
+Lotte Landmark 10/04/2014 09:30  16:35 
+Lotte HaDong 07/04/2014 11:00  19:30 
+Lotte HaDong 08/04/2014 11:00  19:30 
+Lotte HaDong 09/04/2014 11:00  19:30 
+Lotte HaDong 10/04/2014 11:00  19:30 
+
+07/04/2014-21:47:10 : Begin Parse A Movie
+07/04/2014-21:47:10 : Parse movie detail at http://lottecinemavn.com/vi-vn/Phim/ĐIEU-KY-DIEU-TRONG-PHONG-GIAM-SO-7-(FESTIVAL).aspx
+07/04/2014-21:47:11 : Parse ticket info
+07/04/2014-21:47:11 : Parsed : http://lottecinemavn.com/vi-vn/Phim/ĐIEU-KY-DIEU-TRONG-PHONG-GIAM-SO-7-(FESTIVAL).aspx
+07/04/2014-21:47:11 : http://lottecinemavn.com/vi-vn/Phim/ĐIEU-KY-DIEU-TRONG-PHONG-GIAM-SO-7-(FESTIVAL).aspx
+http://www.youtube.com/embed/z4WbNyKChY0
+ĐIỀU KỲ DIỆU TRONG PHÒNG ...
+Lee Hwan-Kyung
+2 tiếng 7 phút
+Tâm lý, Hài, Tình Cảm
+Lotte DongNai 07/04/2014 09:00 
+Lotte BinhDuong 07/04/2014 15:25 
+Lotte BinhDuong 08/04/2014 15:25 
+Lotte BinhDuong 09/04/2014 15:25 
+Lotte BinhDuong 10/04/2014 15:25 
+
+07/04/2014-21:47:11 : Begin Parse A Movie
+07/04/2014-21:47:11 : Parse movie detail at http://lottecinemavn.com/vi-vn/Phim/DI-BIET.aspx
+07/04/2014-21:47:12 : Parse ticket info
+07/04/2014-21:47:12 : Parsed : http://lottecinemavn.com/vi-vn/Phim/DI-BIET.aspx
+07/04/2014-21:47:12 : http://lottecinemavn.com/vi-vn/Phim/DI-BIET.aspx
+http://www.youtube.com/embed/B-aGpE-0N40
+DỊ BIỆT (DIVERGENT)
+Neil Burger
+
+Hành động, Phiêu lưu, Viễn tưởng
+Lotte NamSaiGon 07/04/2014 08:45  13:50  21:00 
+Lotte NamSaiGon 08/04/2014 08:45  13:50  21:00 
+Lotte NamSaiGon 09/04/2014  
+Lotte NamSaiGon 10/04/2014 08:45  13:50  21:00 
+Lotte Landmark 07/04/2014 14:10  21:00 
+Lotte Landmark 08/04/2014 14:10  21:00 
+Lotte Landmark 09/04/2014 14:10  21:00 
+Lotte Landmark 10/04/2014 14:10  21:00 
+Lotte HaDong 07/04/2014 11:15  13:50  16:25  19:00 
+Lotte HaDong 08/04/2014 11:15  13:50  16:25  19:00 
+Lotte HaDong 09/04/2014 11:15  13:50  16:25  19:00 
+Lotte HaDong 10/04/2014 11:15  13:50  16:25  19:00 
+Lotte CongHoa 07/04/2014 11:40  18:40  21:20 
+Lotte CongHoa 08/04/2014 13:30  21:10 
+Lotte CongHoa 09/04/2014 13:30  21:10 
+Lotte CongHoa 10/04/2014 13:30  21:10 
+
+07/04/2014-21:47:12 : Begin Parse A Movie
+07/04/2014-21:47:12 : Parse movie detail at http://lottecinemavn.com/vi-vn/Phim/ĐAM-ME-TOC-ĐO.aspx
+07/04/2014-21:47:13 : Parse ticket info
+07/04/2014-21:47:13 : Parsed : http://lottecinemavn.com/vi-vn/Phim/ĐAM-ME-TOC-ĐO.aspx
+07/04/2014-21:47:13 : http://lottecinemavn.com/vi-vn/Phim/ĐAM-ME-TOC-ĐO.aspx
+http://www.youtube.com/embed/mk5wwiV5aWw
+ĐAM MÊ TỐC ĐỘ
+Scott Waugh
+2 tiếng 10 phút
+Hành động, Đua xe, Hồi hộp
+Lotte NamSaiGon 07/04/2014 11:15  16:20  14:55  21:25 
+Lotte NamSaiGon 08/04/2014 11:15  16:20  14:55  21:25 
+Lotte NamSaiGon 09/04/2014 11:15 
+Lotte NamSaiGon 10/04/2014 11:15  16:20  14:55  21:25 
+Lotte HaDong 07/04/2014 12:55  21:20 
+Lotte HaDong 08/04/2014 12:55  21:20 
+Lotte HaDong 09/04/2014 12:55  21:20 
+Lotte HaDong 10/04/2014 12:55  21:20 
+
+07/04/2014-21:47:13 : Finish parsing 12 movies.
+07/04/2014-21:47:13 : Connect to https://www.galaxycine.vn/vi/phim/nowshowing
+07/04/2014-21:47:13 : Begin Parse A Movie
+07/04/2014-21:47:13 : Parse movie detail at https://www.galaxycine.vn/vi/thong-tin-phim/qua-tim-mau-digital
+07/04/2014-21:47:13 : Parse ticket info
+07/04/2014-21:47:13 : Parsed : https://www.galaxycine.vn/vi/thong-tin-phim/qua-tim-mau-digital
+07/04/2014-21:47:13 : https://www.galaxycine.vn/vi/thong-tin-phim/qua-tim-mau-digital
+http://www.youtube.com/embed/oHSZ4R_yuI0&amp;feature=youtu.be
+QUẢ TIM MÁU (DIGITAL)
+Victor Vũ
+90 phút
+Kinh dị, Tâm lý, Tình cảm
+Galaxy Kinh Dương Vương 08/04/2014 09:30 13:10 18:00  
+Galaxy Kinh Dương Vương 09/04/2014 09:30 13:10 18:00  
+Galaxy Kinh Dương Vương 10/04/2014 09:30 13:10 18:00  
+
+07/04/2014-21:47:13 : Begin Parse A Movie
+07/04/2014-21:47:13 : Parse movie detail at https://www.galaxycine.vn/vi/thong-tin-phim/di-biet-digital
+07/04/2014-21:47:13 : Parse ticket info
+07/04/2014-21:47:13 : Parsed : https://www.galaxycine.vn/vi/thong-tin-phim/di-biet-digital
+07/04/2014-21:47:13 : https://www.galaxycine.vn/vi/thong-tin-phim/di-biet-digital
+http://www.youtube.com/embed/cwo42SnMP6Q
+DỊ BIỆT 16+(DIGITAL)
+Neil Burger
+
+Hành động, Phiêu lưu, Tình cảm
+Galaxy Kinh Dương Vương 08/04/2014 10:30  
+Galaxy Kinh Dương Vương 09/04/2014 10:30  
+Galaxy Kinh Dương Vương 10/04/2014 10:30  
+
+07/04/2014-21:47:13 : Begin Parse A Movie
+07/04/2014-21:47:13 : Parse movie detail at https://www.galaxycine.vn/vi/thong-tin-phim/300-de-che-troi-day-digital
+07/04/2014-21:47:13 : Parse ticket info
+07/04/2014-21:47:13 : Parsed : https://www.galaxycine.vn/vi/thong-tin-phim/300-de-che-troi-day-digital
+07/04/2014-21:47:13 : https://www.galaxycine.vn/vi/thong-tin-phim/300-de-che-troi-day-digital
+https://www.youtube.com/embed/6xxNC7B2oiE
+300 ĐẾ CHẾ TRỖI DẬY 16+ (DIGITAL)
+Noam Murro
+
+Chiến tranh, Cổ trang, Hành động, Tâm lý
+Galaxy Kinh Dương Vương 08/04/2014 09:00 12:00 14:00 15:50 17:40 19:55 21:45  
+Galaxy Kinh Dương Vương 09/04/2014 09:00 12:00 14:00 15:50 17:40 19:55 21:45  
+Galaxy Kinh Dương Vương 10/04/2014 09:00 12:00 14:00 15:50 17:40 19:55 21:45  
+Galaxy Tân Bình 08/04/2014 09:30 14:40 20:00 21:45  
+Galaxy Tân Bình 09/04/2014 09:30 14:40  
+Galaxy Tân Bình 10/04/2014 09:30 14:40  
+
+07/04/2014-21:47:13 : Begin Parse A Movie
+07/04/2014-21:47:13 : Parse movie detail at https://www.galaxycine.vn/vi/thong-tin-phim/noah-digital
+07/04/2014-21:47:14 : Parse ticket info
+07/04/2014-21:47:14 : Parsed : https://www.galaxycine.vn/vi/thong-tin-phim/noah-digital
+07/04/2014-21:47:14 : https://www.galaxycine.vn/vi/thong-tin-phim/noah-digital
+http://www.youtube.com/embed/2gEt3U58GbY
+NOAH 16+(DIGITAL)
+Darren Aronofsky
+100 phút
+Khoa học viễn tưởng, Phiêu lưu, Tâm lý
+Galaxy Kinh Dương Vương 08/04/2014 09:15 11:20 14:00 15:15 16:35 19:15 21:15  
+Galaxy Kinh Dương Vương 09/04/2014 09:15 11:20 14:00 15:15 16:35 19:15 21:15  
+Galaxy Kinh Dương Vương 10/04/2014 09:15 11:20 14:00 15:15 16:35 19:15 21:15  
+Galaxy Nguyễn Du 08/04/2014 09:35 14:45 17:20  
+Galaxy Nguyễn Du 09/04/2014 09:35 14:45 17:20 21:30  
+Galaxy Nguyễn Trãi 08/04/2014 09:35 12:10 14:45 17:20 21:30  
+Galaxy Nguyễn Trãi 09/04/2014 09:35 12:10 14:45 17:20 21:30  
+Galaxy Nguyễn Trãi 10/04/2014 09:35 12:10 14:45 17:20 21:30  
+Galaxy Tân Bình 08/04/2014 10:15 13:00 15:45 18:30 21:15  
+Galaxy Tân Bình 09/04/2014 10:15 13:00 15:45 18:30  
+Galaxy Tân Bình 10/04/2014 10:15 13:00 15:45 18:30  
+
+07/04/2014-21:47:14 : Begin Parse A Movie
+07/04/2014-21:47:14 : Parse movie detail at https://www.galaxycine.vn/vi/thong-tin-phim/bao-oan
+07/04/2014-21:47:14 : Parse ticket info
+07/04/2014-21:47:14 : Parsed : https://www.galaxycine.vn/vi/thong-tin-phim/bao-oan
+07/04/2014-21:47:14 : https://www.galaxycine.vn/vi/thong-tin-phim/bao-oan
+https://www.youtube.com/embed/ugq-khWM1Yk
+BÁO OÁN 16+ (DIGITAL)
+Herman Yau
+
+Kinh dị
+Galaxy Kinh Dương Vương 07/04/2014 22:00  
+Galaxy Kinh Dương Vương 08/04/2014 10:00 11:40 13:20 15:10 16:50 18:30 19:30 22:00  
+Galaxy Kinh Dương Vương 09/04/2014 10:00 11:40 13:20 15:10 16:50 18:30 19:30 22:00  
+Galaxy Kinh Dương Vương 10/04/2014 10:00 11:40 13:20 15:10 16:50 18:30 19:30 22:00  
+Galaxy Nguyễn Du 08/04/2014 09:00 15:35 19:55  
+Galaxy Nguyễn Du 09/04/2014 09:00 15:35 19:55  
+Galaxy Nguyễn Trãi 07/04/2014 22:10  
+Galaxy Nguyễn Trãi 08/04/2014 09:00 15:35 19:55  
+Galaxy Nguyễn Trãi 09/04/2014 09:00 15:35 19:55  
+Galaxy Nguyễn Trãi 10/04/2014 19:55  
+Galaxy Tân Bình 07/04/2014 22:00  
+Galaxy Tân Bình 08/04/2014 09:15 11:15 12:50 16:30 18:15 22:00  
+Galaxy Tân Bình 09/04/2014 09:15 11:15 12:50 16:30 18:15 22:00  
+Galaxy Tân Bình 10/04/2014 09:15 11:15 12:50 16:30 18:15 22:00  
+
+07/04/2014-21:47:14 : Begin Parse A Movie
+07/04/2014-21:47:14 : Parse movie detail at https://www.galaxycine.vn/vi/thong-tin-phim/noah-3d
+07/04/2014-21:47:15 : Parse ticket info
+07/04/2014-21:47:15 : Parsed : https://www.galaxycine.vn/vi/thong-tin-phim/noah-3d
+07/04/2014-21:47:15 : https://www.galaxycine.vn/vi/thong-tin-phim/noah-3d
+http://www.youtube.com/embed/2gEt3U58GbY
+NOAH 16+ (3D)
+Darren Aronofsky
+100 phút
+Khoa học viễn tưởng, Phiêu lưu, Tâm lý
+Galaxy Nguyễn Du 08/04/2014 12:10 21:30  
+Galaxy Nguyễn Du 09/04/2014 12:10  
+
+07/04/2014-21:47:15 : Begin Parse A Movie
+07/04/2014-21:47:15 : Parse movie detail at https://www.galaxycine.vn/vi/thong-tin-phim/captain-america-chien-binh-mua-dong-digital
+07/04/2014-21:47:15 : Parse ticket info
+07/04/2014-21:47:15 : Parsed : https://www.galaxycine.vn/vi/thong-tin-phim/captain-america-chien-binh-mua-dong-digital
+07/04/2014-21:47:15 : https://www.galaxycine.vn/vi/thong-tin-phim/captain-america-chien-binh-mua-dong-digital
+http://www.youtube.com/embed/qUXiG7AcBLI
+CAPTAIN AMERICA: CHIẾN BINH MÙA ĐÔNG (DIGITAL)
+Anthony Russo
+136 phút
+Hành động, Khoa học viễn tưởng, Kịch tính
+Galaxy Kinh Dương Vương 08/04/2014 09:00 11:40 13:30 15:30 17:00 18:10 20:10 21:30  
+Galaxy Kinh Dương Vương 09/04/2014 09:00 11:40 13:30 15:30 17:00 18:10 20:10 21:30  
+Galaxy Kinh Dương Vương 10/04/2014 09:00 11:40 13:30 15:30 17:00 18:10 20:10 21:30  
+Galaxy Nguyễn Du 07/04/2014 22:10  
+Galaxy Nguyễn Du 08/04/2014 09:00 11:30 13:05 16:30 21:30 22:10  
+Galaxy Nguyễn Du 09/04/2014 09:00 11:30 14:00 16:30 21:30 22:10  
+Galaxy Nguyễn Du 10/04/2014 09:00 11:30 14:00 16:30 21:30  
+Galaxy Nguyễn Du 11/04/2014 09:10 11:40 14:10 16:40 21:40  
+Galaxy Nguyễn Trãi 08/04/2014 09:00 11:30 13:05 16:30 21:30 22:10  
+Galaxy Nguyễn Trãi 09/04/2014 09:00 11:30 14:00 16:30 19:00 21:30 22:10  
+Galaxy Nguyễn Trãi 10/04/2014 09:00 11:30 14:00 16:30 19:00 21:30  
+Galaxy Nguyễn Trãi 11/04/2014 11:30 14:00 16:30 19:00 21:30  
+Galaxy Tân Bình 08/04/2014 09:00 09:50 11:35 13:35 14:20 16:10 16:55 21:30  
+Galaxy Tân Bình 09/04/2014 09:00 09:50 11:35 12:30 13:35 14:20 16:10 16:55 21:30  
+Galaxy Tân Bình 10/04/2014 09:00 09:50 11:35 12:30 13:35 14:20 16:10 16:55 17:50 21:30  
+
+07/04/2014-21:47:15 : Begin Parse A Movie
+07/04/2014-21:47:15 : Parse movie detail at https://www.galaxycine.vn/vi/thong-tin-phim/captain-america-chien-binh-mua-dong-3d
+07/04/2014-21:47:15 : Parse ticket info
+07/04/2014-21:47:15 : Parsed : https://www.galaxycine.vn/vi/thong-tin-phim/captain-america-chien-binh-mua-dong-3d
+07/04/2014-21:47:15 : https://www.galaxycine.vn/vi/thong-tin-phim/captain-america-chien-binh-mua-dong-3d
+http://www.youtube.com/embed/qUXiG7AcBLI
+CAPTAIN AMERICA: CHIẾN BINH MÙA ĐÔNG (3D)
+Anthony Russo
+136 phút
+Hành động, Khoa học viễn tưởng, Kịch tính
+Galaxy Kinh Dương Vương 08/04/2014 10:00 10:50 12:45 14:20 16:15 19:00 19:40 20:50  
+Galaxy Kinh Dương Vương 09/04/2014 10:00 10:50 12:45 14:20 16:15 19:00 19:40 20:50  
+Galaxy Kinh Dương Vương 10/04/2014 10:00 10:50 12:45 14:20 16:15 19:00 19:40 20:50  
+Galaxy Nguyễn Du 08/04/2014 10:35 14:00 17:10 19:00 19:40  
+Galaxy Nguyễn Du 09/04/2014 10:35 13:05 17:10 19:00 19:40  
+Galaxy Nguyễn Du 10/04/2014 19:00  
+Galaxy Nguyễn Du 11/04/2014 19:10  
+Galaxy Nguyễn Trãi 08/04/2014 10:35 14:00 17:10 19:00 19:40  
+Galaxy Nguyễn Trãi 09/04/2014 10:35 13:05 17:10 19:40  
+Galaxy Nguyễn Trãi 11/04/2014 09:00  
+Galaxy Tân Bình 08/04/2014 10:50 12:30 15:10 17:50 18:50 19:30 20:30  
+Galaxy Tân Bình 09/04/2014 10:50 15:10 17:50 18:50 19:30 20:30  
+Galaxy Tân Bình 10/04/2014 10:50 15:10 18:50 19:30  
+
+07/04/2014-21:47:15 : Finish parsing 20 movies.
+07/04/2014-21:47:15 : Connect to https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetCinemaList&&visLang=1
+07/04/2014-21:47:15 : Parsed 13 theaters
+07/04/2014-21:47:16 : Connect to https://www.cgv.vn/vn/nowshowing/
+07/04/2014-21:47:16 : Begin Parse A Movie
+07/04/2014-21:47:16 : Parse movie detail at http://www.cgv.vn/vn/4dx-3d-captain-america-2
+07/04/2014-21:47:16 : Parse ticket info
+07/04/2014-21:47:16 : Ticket info of 4DX+3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=4DX+3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:17 : Ticket info of 4DX+3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=4DX+3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:17 : Ticket info of 4DX+3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=4DX+3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:17 : Ticket info of 4DX+3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=4DX+3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:17 : Ticket info of 4DX+3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=4DX+3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:17 : Ticket info of 4DX+3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=4DX+3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:17 : Ticket info of 4DX+3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=4DX+3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:17 : Ticket info of 4DX+3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=4DX+3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:17 : Ticket info of 4DX+3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=4DX+3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:17 : Ticket info of 4DX+3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=4DX+3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:17 : Ticket info of 4DX+3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=4DX+3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:18 : Ticket info of 4DX+3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=4DX+3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:18 : Ticket info of 4DX+3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=4DX+3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:18 : Parsed : http://www.cgv.vn/vn/4dx-3d-captain-america-2
+07/04/2014-21:47:18 : http://www.cgv.vn/vn/4dx-3d-captain-america-2
+http://www.youtube.com/embed/qUXiG7AcBLI
+4DX 3D Captain America 2
+Anthony Russo, Joe Russo
+2 giờ và 16 phút
+Hành Động, Phiêu Lưu, KH Viễn Tưởng/ Thần Thoại
+Cgv Hùng Vương Plaza 7/04/2014 22:25  
+Cgv Hùng Vương Plaza 8/04/2014 9:30 24:05 14:40 17:15 19:50 22:25  
+Cgv Hùng Vương Plaza 9/04/2014 9:25 24:00 14:35 17:15 19:50 22:25  
+Cgv Hùng Vương Plaza 10/04/2014 9:30 24:05 14:40 17:15 19:50 22:25  
+
+07/04/2014-21:47:18 : Begin Parse A Movie
+07/04/2014-21:47:18 : Parse movie detail at http://www.cgv.vn/vn/4dx-3d-noah
+07/04/2014-21:47:18 : Parse ticket info
+07/04/2014-21:47:18 : Ticket info of 4DX+3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=4DX+3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:18 : Ticket info of 4DX+3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=4DX+3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:18 : Ticket info of 4DX+3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=4DX+3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:18 : Ticket info of 4DX+3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=4DX+3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:18 : Ticket info of 4DX+3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=4DX+3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:18 : Ticket info of 4DX+3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=4DX+3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:18 : Ticket info of 4DX+3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=4DX+3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:18 : Ticket info of 4DX+3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=4DX+3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:18 : Ticket info of 4DX+3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=4DX+3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:18 : Ticket info of 4DX+3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=4DX+3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:18 : Ticket info of 4DX+3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=4DX+3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:18 : Ticket info of 4DX+3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=4DX+3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:18 : Ticket info of 4DX+3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=4DX+3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:18 : Parsed : http://www.cgv.vn/vn/4dx-3d-noah
+07/04/2014-21:47:18 : http://www.cgv.vn/vn/4dx-3d-noah
+http://www.youtube.com/embed/2gEt3U58GbY
+4DX 3D Đại Hồng Thủy
+Darren Aronofsky
+2 giờ và 20 phút
+Phiêu Lưu, Tâm lý, KH Viễn Tưởng/ Thần Thoại
+
+07/04/2014-21:47:18 : Begin Parse A Movie
+07/04/2014-21:47:18 : Parse movie detail at http://www.cgv.vn/vn/3d-atmos-captain-america-2
+07/04/2014-21:47:18 : Parse ticket info
+07/04/2014-21:47:19 : Ticket info of 3D+ATMOS+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=3D+ATMOS+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:19 : Ticket info of 3D+ATMOS+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=3D+ATMOS+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:19 : Ticket info of 3D+ATMOS+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=3D+ATMOS+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:19 : Ticket info of 3D+ATMOS+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=3D+ATMOS+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:19 : Ticket info of 3D+ATMOS+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=3D+ATMOS+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:19 : Ticket info of 3D+ATMOS+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=3D+ATMOS+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:19 : Ticket info of 3D+ATMOS+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=3D+ATMOS+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:19 : Ticket info of 3D+ATMOS+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=3D+ATMOS+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:19 : Ticket info of 3D+ATMOS+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=3D+ATMOS+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:19 : Ticket info of 3D+ATMOS+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=3D+ATMOS+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:19 : Ticket info of 3D+ATMOS+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=3D+ATMOS+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:19 : Ticket info of 3D+ATMOS+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=3D+ATMOS+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:19 : Ticket info of 3D+ATMOS+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=3D+ATMOS+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:19 : Parsed : http://www.cgv.vn/vn/3d-atmos-captain-america-2
+07/04/2014-21:47:19 : http://www.cgv.vn/vn/3d-atmos-captain-america-2
+http://www.youtube.com/embed/qUXiG7AcBLI
+3D ATMOS Captain America 2
+Anthony Russo, Joe Russo
+2 giờ và 16 phút
+Hành Động, Phiêu Lưu, KH Viễn Tưởng/ Thần Thoại
+Cgv Hùng Vương Plaza 8/04/2014 11:15 13:55 16:35 19:15  
+Cgv Hùng Vương Plaza 9/04/2014 11:20 14:00 16:40 19:20 22:00  
+Cgv Hùng Vương Plaza 10/04/2014 11:15 13:55 16:35 19:20  
+Cgv MIPEC Tower 7/04/2014 22:20  
+Cgv MIPEC Tower 8/04/2014 9:00 11:35 14:10 16:45 21:40  
+Cgv MIPEC Tower 9/04/2014 8:55 11:35 14:15 16:55 19:35 22:15  
+Cgv MIPEC Tower 10/04/2014 9:00 11:40 14:20 17:00 19:40 22:20  
+Cgv MIPEC Tower 11/04/2014 9:05 13:45 20:30  
+Cgv MIPEC Tower 12/04/2014 9:05 13:45 20:30  
+Cgv MIPEC Tower 13/04/2014 9:05 13:45 20:30  
+Cgv MIPEC Tower 14/04/2014 9:05 13:45 20:30  
+Cgv MIPEC Tower 15/04/2014 9:05 13:45 20:30  
+Cgv MIPEC Tower 16/04/2014 9:00 13:40 20:25  
+Cgv MIPEC Tower 17/04/2014 9:05 13:45 20:30  
+
+07/04/2014-21:47:19 : Begin Parse A Movie
+07/04/2014-21:47:19 : Parse movie detail at http://www.cgv.vn/vn/3d-noah
+07/04/2014-21:47:19 : Parse ticket info
+07/04/2014-21:47:19 : Ticket info of 3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:20 : Ticket info of 3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:20 : Ticket info of 3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:20 : Ticket info of 3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:20 : Ticket info of 3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:20 : Ticket info of 3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:20 : Ticket info of 3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:20 : Ticket info of 3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:20 : Ticket info of 3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:20 : Ticket info of 3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:20 : Ticket info of 3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:20 : Ticket info of 3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:20 : Ticket info of 3D+Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=3D+Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:20 : Parsed : http://www.cgv.vn/vn/3d-noah
+07/04/2014-21:47:20 : http://www.cgv.vn/vn/3d-noah
+http://www.youtube.com/embed/2gEt3U58GbY
+3D Đại Hồng Thủy
+Darren Aronofsky
+2 giờ và 20 phút
+Phiêu Lưu, Tâm lý, KH Viễn Tưởng/ Thần Thoại
+Cgv Celadon Tân Phú 8/04/2014 11:50 14:30  
+Cgv Celadon Tân Phú 9/04/2014 11:50 14:30  
+Cgv Celadon Tân Phú 10/04/2014 11:50 14:30  
+Cgv Pandora City 8/04/2014 9:10 14:50 20:30  
+Cgv Pandora City 9/04/2014 9:10 14:45  
+Cgv Pandora City 10/04/2014 9:10 14:50 20:30  
+Cgv Crescent Mall 8/04/2014 10:10 13:00 15:45 22:00  
+Cgv Crescent Mall 9/04/2014 9:50 17:55  
+Cgv Crescent Mall 10/04/2014 9:50 17:55 22:35  
+Cgv CT Plaza 7/04/2014 22:50  
+Cgv CT Plaza 8/04/2014 9:30 24:10 14:50 17:30 20:10 22:50  
+Cgv CT Plaza 9/04/2014 9:30 24:10 14:50 17:30 20:10 22:50  
+Cgv CT Plaza 10/04/2014 9:30 24:10 14:50 17:30 20:10 22:50  
+Cgv CT Plaza 11/04/2014 24:20  
+Cgv CT Plaza 12/04/2014 24:20  
+Cgv CT Plaza 13/04/2014 24:20  
+Cgv CT Plaza 14/04/2014 24:20  
+Cgv CT Plaza 15/04/2014 24:20  
+Cgv CT Plaza 16/04/2014 24:20  
+Cgv CT Plaza 17/04/2014 24:20  
+Cgv Parkson Paragon 8/04/2014 8:50 14:20 19:50  
+Cgv Parkson Paragon 9/04/2014 8:50 14:20 19:50  
+Cgv Parkson Paragon 10/04/2014 8:50 14:20 19:50  
+Cgv Vincom Center Bà Triệu 8/04/2014 9:45 11:15 16:45  
+Cgv Vincom Center Bà Triệu 9/04/2014 9:45 11:15  
+Cgv Vincom Center Bà Triệu 10/04/2014 9:45 11:15 16:45  
+Cgv MIPEC Tower 8/04/2014 24:35  
+Cgv MIPEC Tower 9/04/2014 24:10  
+Cgv MIPEC Tower 10/04/2014 24:35 18:00  
+Cgv Marine Plaza 8/04/2014 13:20 15:55  
+Cgv Marine Plaza 9/04/2014 13:20 15:55  
+Cgv Marine Plaza 10/04/2014 13:20 15:55  
+Cgv Sense City 8/04/2014 8:40 16:25 21:35  
+Cgv Sense City 9/04/2014 8:40 16:25 21:35  
+Cgv Sense City 10/04/2014 8:40 16:25 21:35  
+Cgv Thùy Dương Plaza 8/04/2014 8:55 11:35 14:20  
+Cgv Thùy Dương Plaza 9/04/2014 8:55 11:35 14:20  
+Cgv Thùy Dương Plaza 10/04/2014 8:55 11:35 14:20  
+Cgv Vinh Trung Plaza 8/04/2014 14:40 17:15  
+Cgv Vinh Trung Plaza 9/04/2014 14:40 17:15  
+Cgv Vinh Trung Plaza 10/04/2014 14:40 17:15  
+Cgv Siêu thị Co 8/04/2014 9:00 14:25  
+Cgv Siêu thị Co 9/04/2014 9:00 14:25  
+Cgv Siêu thị Co 10/04/2014 9:00 14:25  
+
+07/04/2014-21:47:20 : Begin Parse A Movie
+07/04/2014-21:47:20 : Parse movie detail at http://www.cgv.vn/vn/3d-captain-america-2
+07/04/2014-21:47:21 : Parse ticket info
+07/04/2014-21:47:21 : Ticket info of 3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:21 : Ticket info of 3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:21 : Ticket info of 3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:21 : Ticket info of 3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:21 : Ticket info of 3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:21 : Ticket info of 3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:21 : Ticket info of 3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:21 : Ticket info of 3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:21 : Ticket info of 3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:21 : Ticket info of 3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:22 : Ticket info of 3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:22 : Ticket info of 3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:22 : Ticket info of 3D+Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=3D+Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:22 : Parsed : http://www.cgv.vn/vn/3d-captain-america-2
+07/04/2014-21:47:22 : http://www.cgv.vn/vn/3d-captain-america-2
+http://www.youtube.com/embed/qUXiG7AcBLI
+3D Captain America 2
+Anthony Russo, Joe Russo
+2 giờ và 16 phút
+Hành Động, Phiêu Lưu, KH Viễn Tưởng/ Thần Thoại
+Cgv Celadon Tân Phú 8/04/2014 8:20 9:10 11:00 13:45 16:25 17:20 20:00 21:40  
+Cgv Celadon Tân Phú 9/04/2014 8:20 9:10 11:00 13:45 16:25 17:20 20:00 21:40  
+Cgv Celadon Tân Phú 10/04/2014 8:20 9:10 11:00 13:45 16:25 17:20 20:00 21:40  
+Cgv Pandora City 8/04/2014 10:20 24:00 13:00 15:50 17:40 18:40 21:30  
+Cgv Pandora City 9/04/2014 10:20 24:00 13:00 15:50 17:40 18:40 20:30 21:30  
+Cgv Pandora City 10/04/2014 10:20 24:00 13:00 15:50 17:40 18:40 21:30  
+Cgv Pandora City 11/04/2014 9:10 24:00 14:50 17:40 20:30  
+Cgv Pandora City 12/04/2014 9:10 24:00 14:50 17:40 20:30  
+Cgv Pandora City 13/04/2014 9:10 24:00 14:50 17:40 20:30  
+Cgv Crescent Mall 7/04/2014 22:20  
+Cgv Crescent Mall 8/04/2014 10:30 13:10 15:55 22:00  
+Cgv Crescent Mall 9/04/2014 9:00 11:40 14:20 17:00 19:40 20:50 22:20  
+Cgv Crescent Mall 10/04/2014 9:00 11:40 14:20 17:00 19:40 22:20  
+Cgv Hùng Vương Plaza 9/04/2014 24:35 17:55 20:35  
+Cgv CT Plaza 7/04/2014 22:30  
+Cgv CT Plaza 8/04/2014 9:10 10:10 11:50 24:50 14:30 15:30 17:10 18:10 19:50 20:50 22:30  
+Cgv CT Plaza 9/04/2014 9:10 10:10 11:50 24:50 14:30 15:30 17:10 18:10 19:50 20:50 22:30  
+Cgv CT Plaza 10/04/2014 8:20 10:10 11:00 24:50 13:40 15:30 16:20 18:10 20:50 21:40  
+Cgv CT Plaza 11/04/2014 9:00 11:40 14:20 17:00 19:40 22:20  
+Cgv CT Plaza 12/04/2014 9:00 11:40 14:20 17:00 19:40 22:20  
+Cgv CT Plaza 13/04/2014 9:00 11:40 14:20 17:00 19:40 22:20  
+Cgv CT Plaza 14/04/2014 9:00 11:40 14:20 17:00 19:40 22:20  
+Cgv CT Plaza 15/04/2014 9:00 11:40 14:20 17:00 19:40 22:20  
+Cgv CT Plaza 16/04/2014 9:00 11:40 14:20 17:00 19:40 22:20  
+Cgv CT Plaza 17/04/2014 9:00 11:40 14:20 17:00 19:40 22:20  
+Cgv Parkson Paragon 8/04/2014 9:20 11:40 24:00 14:40 17:10 17:30 20:10  
+Cgv Parkson Paragon 9/04/2014 9:20 11:40 24:00 14:40 17:10 17:30 20:10  
+Cgv Parkson Paragon 10/04/2014 9:20 11:40 24:00 14:40 17:10 17:30 20:10  
+Cgv Parkson Paragon 11/04/2014 9:20 24:00 14:40 17:20 20:00  
+Cgv Parkson Paragon 12/04/2014 9:20 24:00 14:40 17:20 20:00  
+Cgv Parkson Paragon 13/04/2014 9:25 24:05 14:45 17:25 20:05  
+Cgv Vincom Center Bà Triệu 7/04/2014 22:25  
+Cgv Vincom Center Bà Triệu 8/04/2014 8:45 11:30 14:10 16:55 19:40 22:25  
+Cgv Vincom Center Bà Triệu 9/04/2014 8:45 11:30 14:10 16:55 19:40 22:25  
+Cgv Vincom Center Bà Triệu 10/04/2014 8:45 11:30 14:10 16:55 19:40 22:25  
+Cgv MIPEC Tower 8/04/2014 10:00 15:20 18:00 20:40  
+Cgv MIPEC Tower 9/04/2014 9:35 14:55 17:35 20:15  
+Cgv MIPEC Tower 10/04/2014 10:00 15:20 20:40  
+Cgv MIPEC Tower 11/04/2014 24:05 16:50 21:30  
+Cgv MIPEC Tower 12/04/2014 24:05 16:50 21:30  
+Cgv MIPEC Tower 13/04/2014 24:05 16:50 21:30  
+Cgv MIPEC Tower 14/04/2014 24:05 16:50 21:30  
+Cgv MIPEC Tower 15/04/2014 24:00 16:45  
+Cgv MIPEC Tower 16/04/2014 24:00 16:45 21:25  
+Cgv MIPEC Tower 17/04/2014 24:05 16:50 21:30  
+Cgv Marine Plaza 8/04/2014 10:45 18:30 21:10  
+Cgv Marine Plaza 9/04/2014 10:45 18:30 21:10  
+Cgv Marine Plaza 10/04/2014 10:45 18:30 21:10  
+Cgv Sense City 8/04/2014 9:10 11:45 16:15 19:00 21:35  
+Cgv Sense City 9/04/2014 9:00 11:35 16:00 18:40 21:15  
+Cgv Sense City 10/04/2014 9:10 11:45 16:15 19:00 21:35  
+Cgv Thùy Dương Plaza 8/04/2014 9:30 24:15 15:00 17:45 20:30  
+Cgv Thùy Dương Plaza 9/04/2014 9:30 24:15 15:00 17:45 20:30  
+Cgv Thùy Dương Plaza 10/04/2014 9:30 24:15 15:00 17:45 20:30  
+Cgv Vinh Trung Plaza 7/04/2014 21:55  
+Cgv Vinh Trung Plaza 8/04/2014 8:50 11:30 14:10 19:20 21:55  
+Cgv Vinh Trung Plaza 9/04/2014 8:50 11:30 14:10 16:45 19:20 19:50 21:55  
+Cgv Vinh Trung Plaza 10/04/2014 8:50 11:30 14:10 19:20 21:55  
+Cgv Vinh Trung Plaza 11/04/2014 8:50 14:00 19:15  
+Cgv Vinh Trung Plaza 12/04/2014 8:50 14:00 19:15  
+Cgv Vinh Trung Plaza 13/04/2014 8:50 14:00 19:15  
+Cgv Vinh Trung Plaza 14/04/2014 8:50 14:00 19:15  
+Cgv Vinh Trung Plaza 15/04/2014 8:50 14:00 19:15  
+Cgv Vinh Trung Plaza 16/04/2014 8:50 14:00 19:15  
+Cgv Vinh Trung Plaza 17/04/2014 8:50 14:00 19:15  
+Cgv Siêu thị Co 7/04/2014 22:30  
+Cgv Siêu thị Co 8/04/2014 8:20 11:00 11:45 13:40 16:20 17:10 19:00 19:50 21:45 22:30  
+Cgv Siêu thị Co 9/04/2014 8:20 11:00 11:45 13:40 16:20 17:10 19:00 19:50 21:45 22:30  
+Cgv Siêu thị Co 10/04/2014 8:20 11:00 11:45 13:40 16:20 17:10 19:00 19:50 21:45 22:30  
+Cgv Siêu thị Co 11/04/2014 9:10 11:50 14:30 17:10 19:55 21:50  
+Cgv Siêu thị Co 12/04/2014 9:10 11:50 14:30 17:10 19:55 21:50  
+Cgv Siêu thị Co 13/04/2014 9:10 11:50 14:30 17:10 19:55 21:50  
+
+07/04/2014-21:47:22 : Begin Parse A Movie
+07/04/2014-21:47:22 : Parse movie detail at http://www.cgv.vn/vn/tabloid-truth
+07/04/2014-21:47:22 : Parse ticket info
+07/04/2014-21:47:22 : Ticket info of Tabloid+Truth at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=Tabloid+Truth&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:22 : Ticket info of Tabloid+Truth at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=Tabloid+Truth&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:22 : Ticket info of Tabloid+Truth at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=Tabloid+Truth&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:22 : Ticket info of Tabloid+Truth at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=Tabloid+Truth&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:22 : Ticket info of Tabloid+Truth at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=Tabloid+Truth&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:22 : Ticket info of Tabloid+Truth at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=Tabloid+Truth&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:23 : Ticket info of Tabloid+Truth at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=Tabloid+Truth&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:23 : Ticket info of Tabloid+Truth at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=Tabloid+Truth&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:23 : Ticket info of Tabloid+Truth at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=Tabloid+Truth&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:23 : Ticket info of Tabloid+Truth at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=Tabloid+Truth&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:23 : Ticket info of Tabloid+Truth at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=Tabloid+Truth&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:23 : Ticket info of Tabloid+Truth at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=Tabloid+Truth&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:23 : Ticket info of Tabloid+Truth at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=Tabloid+Truth&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:23 : Parsed : http://www.cgv.vn/vn/tabloid-truth
+07/04/2014-21:47:23 : http://www.cgv.vn/vn/tabloid-truth
+http://www.youtube.com/embed/VZOnkCTqy4I
+Nặc Danh
+Kim Kwang-Sik
+2 giờ và 3 phút
+Hành Động, Tâm lý
+Cgv Celadon Tân Phú 8/04/2014 9:00 15:30 21:45  
+Cgv Celadon Tân Phú 9/04/2014 15:30 21:45  
+Cgv Celadon Tân Phú 10/04/2014 9:00 15:30 21:45  
+Cgv Pandora City 8/04/2014 8:40 24:30 18:10  
+Cgv Pandora City 9/04/2014 8:40 24:30  
+Cgv Pandora City 10/04/2014 8:40 24:30 18:10  
+Cgv Crescent Mall 8/04/2014 13:40 18:30  
+Cgv Crescent Mall 10/04/2014 13:40 18:30  
+Cgv Hùng Vương Plaza 8/04/2014 8:40 10:50  
+Cgv Hùng Vương Plaza 9/04/2014 9:05 14:15  
+Cgv Hùng Vương Plaza 10/04/2014 8:40 10:50  
+Cgv CT Plaza 8/04/2014 10:50 15:10  
+Cgv CT Plaza 10/04/2014 10:50 15:10  
+Cgv Parkson Paragon 8/04/2014 9:00 11:25 13:50 16:20 21:55  
+Cgv Parkson Paragon 9/04/2014 9:00 11:25 13:50 16:20 21:55  
+Cgv Parkson Paragon 10/04/2014 9:00 11:25 13:50 16:20 20:50  
+Cgv Vincom Center Bà Triệu 8/04/2014 11:25 16:45  
+Cgv Vincom Center Bà Triệu 10/04/2014 11:25 16:45  
+Cgv MIPEC Tower 8/04/2014 9:10 14:00  
+Cgv MIPEC Tower 9/04/2014 9:00  
+Cgv MIPEC Tower 10/04/2014 9:10 14:00  
+Cgv Marine Plaza 8/04/2014 10:00 13:00 17:05  
+Cgv Marine Plaza 9/04/2014 10:00 13:00 17:05  
+Cgv Marine Plaza 10/04/2014 10:00 13:00 17:05  
+Cgv Sense City 8/04/2014 8:25 10:10  
+Cgv Sense City 9/04/2014 10:10  
+Cgv Sense City 10/04/2014 8:25 10:10  
+Cgv Thùy Dương Plaza 8/04/2014 8:50 19:25  
+Cgv Thùy Dương Plaza 9/04/2014 8:50 19:25  
+Cgv Thùy Dương Plaza 10/04/2014 8:50 19:25  
+Cgv Vinh Trung Plaza 8/04/2014 8:30 16:40  
+Cgv Vinh Trung Plaza 9/04/2014 8:45  
+Cgv Vinh Trung Plaza 10/04/2014 8:30  
+Cgv Siêu thị Co 8/04/2014 11:15 15:35 19:55  
+Cgv Siêu thị Co 9/04/2014 11:15 15:35 19:55  
+Cgv Siêu thị Co 10/04/2014 11:15 15:35 19:55  
+
+07/04/2014-21:47:23 : Begin Parse A Movie
+07/04/2014-21:47:23 : Parse movie detail at http://www.cgv.vn/vn/the-second-coming
+07/04/2014-21:47:23 : Parse ticket info
+07/04/2014-21:47:23 : Ticket info of The+Second+Coming at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=The+Second+Coming&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:23 : Ticket info of The+Second+Coming at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=The+Second+Coming&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:23 : Ticket info of The+Second+Coming at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=The+Second+Coming&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:23 : Ticket info of The+Second+Coming at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=The+Second+Coming&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:23 : Ticket info of The+Second+Coming at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=The+Second+Coming&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:24 : Ticket info of The+Second+Coming at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=The+Second+Coming&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:24 : Ticket info of The+Second+Coming at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=The+Second+Coming&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:24 : Ticket info of The+Second+Coming at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=The+Second+Coming&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:24 : Ticket info of The+Second+Coming at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=The+Second+Coming&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:24 : Ticket info of The+Second+Coming at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=The+Second+Coming&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:24 : Ticket info of The+Second+Coming at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=The+Second+Coming&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:24 : Ticket info of The+Second+Coming at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=The+Second+Coming&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:25 : Ticket info of The+Second+Coming at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=The+Second+Coming&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:25 : Parsed : http://www.cgv.vn/vn/the-second-coming
+07/04/2014-21:47:25 : http://www.cgv.vn/vn/the-second-coming
+http://www.youtube.com/embed/WefVmhvMqZw
+Báo Oán
+Herman Yau
+1 giờ và 28 phút
+Kinh Dị, Hình sự/ Hồi hộp
+Cgv Celadon Tân Phú 7/04/2014 22:15  
+Cgv Celadon Tân Phú 8/04/2014 11:30 13:30 18:00 19:50 22:15  
+Cgv Celadon Tân Phú 9/04/2014 13:35 18:00 19:50 22:15  
+Cgv Celadon Tân Phú 10/04/2014 11:30 13:30 18:00 19:50 22:15  
+Cgv Pandora City 8/04/2014 9:40 11:40 13:40 15:40 17:50 19:50 21:50  
+Cgv Pandora City 9/04/2014 9:40 11:40 13:40 14:55 15:40 17:50 18:50 19:50 21:50 22:40  
+Cgv Pandora City 10/04/2014 9:40 11:40 13:40 15:40 17:50 19:50 21:50  
+Cgv Pandora City 11/04/2014 8:30 10:25 24:25 14:25 19:15 21:20  
+Cgv Pandora City 12/04/2014 8:30 10:25 24:25 14:25 19:15 21:20  
+Cgv Pandora City 13/04/2014 8:30 10:25 24:25 14:25 19:15 21:20  
+Cgv Crescent Mall 8/04/2014 9:30 16:55 20:55  
+Cgv Crescent Mall 9/04/2014 9:30 11:50 16:55  
+Cgv Crescent Mall 10/04/2014 9:30 16:55 20:55  
+Cgv Hùng Vương Plaza 7/04/2014 22:25  
+Cgv Hùng Vương Plaza 8/04/2014 9:00 24:20 13:15 15:10 16:45 18:40 20:30 22:25  
+Cgv Hùng Vương Plaza 9/04/2014 9:00 10:50 24:45 14:40 16:35 18:30 20:25 22:20  
+Cgv Hùng Vương Plaza 10/04/2014 9:00 24:20 13:15 15:10 16:45 18:40 20:30 22:25  
+Cgv CT Plaza 8/04/2014 14:10 23:00  
+Cgv CT Plaza 9/04/2014 14:10  
+Cgv CT Plaza 10/04/2014 14:10  
+Cgv CT Plaza 11/04/2014 13:50 18:20 22:50  
+Cgv CT Plaza 12/04/2014 13:50 18:20 22:50  
+Cgv CT Plaza 13/04/2014 13:50 18:20 22:50  
+Cgv CT Plaza 14/04/2014 13:50 18:20 22:50  
+Cgv CT Plaza 15/04/2014 13:50 18:20 22:50  
+Cgv CT Plaza 16/04/2014 13:50 18:20 22:50  
+Cgv CT Plaza 17/04/2014 13:50 18:20 22:50  
+Cgv Parkson Paragon 7/04/2014 22:25  
+Cgv Parkson Paragon 8/04/2014 13:40 15:40 17:40 22:25  
+Cgv Parkson Paragon 9/04/2014 13:40 15:40 17:40 22:25  
+Cgv Parkson Paragon 10/04/2014 13:40 15:40 17:40 22:25  
+Cgv Vincom Center Bà Triệu 7/04/2014 22:00  
+Cgv Vincom Center Bà Triệu 8/04/2014 8:35 13:00 17:25 22:00  
+Cgv Vincom Center Bà Triệu 9/04/2014 8:35 13:00 17:25 22:00  
+Cgv Vincom Center Bà Triệu 10/04/2014 8:35 13:00 17:25 22:00  
+Cgv MIPEC Tower 7/04/2014 23:05  
+Cgv MIPEC Tower 8/04/2014 9:10 24:20 16:50 18:40 23:05  
+Cgv MIPEC Tower 9/04/2014 9:00 24:20 16:50 18:40 23:10  
+Cgv MIPEC Tower 10/04/2014 9:10 24:20 16:50 18:40 23:10  
+Cgv MIPEC Tower 11/04/2014 24:15 16:45 21:20  
+Cgv MIPEC Tower 12/04/2014 24:15 16:45 21:20  
+Cgv MIPEC Tower 13/04/2014 24:15 16:45 21:20  
+Cgv MIPEC Tower 14/04/2014 24:15 16:45 21:20  
+Cgv MIPEC Tower 15/04/2014 24:15 16:45 21:20  
+Cgv MIPEC Tower 16/04/2014 24:10 16:40 21:15  
+Cgv MIPEC Tower 17/04/2014 24:15 16:45 21:20  
+Cgv Sense City 7/04/2014 22:30  
+Cgv Sense City 8/04/2014 8:20 11:15 13:20 15:00 15:40 18:40 20:30 22:30  
+Cgv Sense City 9/04/2014 8:25 11:15 13:30 15:00 15:40 18:05 19:55 20:30 22:30  
+Cgv Sense City 10/04/2014 8:20 11:15 13:20 15:00 15:40 19:10 20:30 22:30  
+Cgv Thùy Dương Plaza 8/04/2014 8:40 11:30 18:20 20:15  
+Cgv Thùy Dương Plaza 9/04/2014 8:40 11:30 17:30 18:20 20:15  
+Cgv Thùy Dương Plaza 10/04/2014 8:40 11:30 18:20 20:15  
+Cgv Vinh Trung Plaza 7/04/2014 22:25  
+Cgv Vinh Trung Plaza 8/04/2014 10:45 11:35 14:50 15:45 19:00 22:25  
+Cgv Vinh Trung Plaza 9/04/2014 8:50 11:00 11:35 15:10 15:45 17:00 19:00 22:25  
+Cgv Vinh Trung Plaza 10/04/2014 10:45 11:35 14:50 15:45 17:00 19:00 22:25  
+Cgv Vinh Trung Plaza 11/04/2014 8:50 13:45 16:40 21:30 22:30  
+Cgv Vinh Trung Plaza 12/04/2014 8:50 13:45 16:40 21:30 22:30  
+Cgv Vinh Trung Plaza 13/04/2014 8:50 13:45 16:40 21:30 22:30  
+Cgv Vinh Trung Plaza 14/04/2014 8:50 13:45 16:40 21:30 22:30  
+Cgv Vinh Trung Plaza 15/04/2014 8:50 13:45 16:40 21:30 22:30  
+Cgv Vinh Trung Plaza 16/04/2014 8:50 13:45 16:40 21:30 22:30  
+Cgv Vinh Trung Plaza 17/04/2014 8:50 13:45 16:40 21:30 22:30  
+Cgv Siêu thị Co 7/04/2014 22:40  
+Cgv Siêu thị Co 8/04/2014 24:15 13:40 16:55 18:00 18:50 20:05 20:45 22:40  
+Cgv Siêu thị Co 9/04/2014 24:15 13:40 16:55 18:00 18:50 20:05 20:45 22:40  
+Cgv Siêu thị Co 10/04/2014 24:15 13:40 16:55 18:00 18:50 20:05 20:45 22:40  
+Cgv Siêu thị Co 11/04/2014 9:40 24:15 14:20 16:55 19:00 21:35  
+Cgv Siêu thị Co 12/04/2014 9:40 24:15 14:20 16:55 19:00 21:35  
+Cgv Siêu thị Co 13/04/2014 9:40 24:15 14:20 16:55 19:00 21:35  
+
+07/04/2014-21:47:25 : Begin Parse A Movie
+07/04/2014-21:47:25 : Parse movie detail at http://www.cgv.vn/vn/divergent
+07/04/2014-21:47:25 : Parse ticket info
+07/04/2014-21:47:25 : Ticket info of Divergent at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=Divergent&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:25 : Ticket info of Divergent at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=Divergent&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:25 : Ticket info of Divergent at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=Divergent&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:26 : Ticket info of Divergent at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=Divergent&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:26 : Ticket info of Divergent at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=Divergent&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:27 : Ticket info of Divergent at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=Divergent&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:27 : Ticket info of Divergent at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=Divergent&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:27 : Ticket info of Divergent at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=Divergent&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:27 : Ticket info of Divergent at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=Divergent&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:27 : Ticket info of Divergent at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=Divergent&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:27 : Ticket info of Divergent at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=Divergent&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:27 : Ticket info of Divergent at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=Divergent&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:27 : Ticket info of Divergent at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=Divergent&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:27 : Parsed : http://www.cgv.vn/vn/divergent
+07/04/2014-21:47:27 : http://www.cgv.vn/vn/divergent
+http://www.youtube.com/embed/cwo42SnMP6Q
+Dị Biệt
+Neil Burger
+2 giờ và 22 phút
+Hành Động, Phiêu Lưu, Tình cảm
+Cgv Celadon Tân Phú 8/04/2014 8:20 11:10 14:00  
+Cgv Celadon Tân Phú 9/04/2014 8:45  
+Cgv Celadon Tân Phú 10/04/2014 8:20 11:10 14:00  
+Cgv Crescent Mall 8/04/2014 9:30 24:15 15:00 17:45  
+Cgv Crescent Mall 9/04/2014 9:30 24:15 15:00  
+Cgv Crescent Mall 10/04/2014 9:30 24:15 15:00 17:45  
+Cgv Hùng Vương Plaza 8/04/2014 10:05 24:55 15:40 19:00 21:45  
+Cgv Hùng Vương Plaza 9/04/2014 11:30 16:50  
+Cgv Hùng Vương Plaza 10/04/2014 10:05 24:55 15:40 19:00 21:45  
+Cgv CT Plaza 8/04/2014 11:20 16:10 19:00  
+Cgv CT Plaza 9/04/2014 11:20  
+Cgv CT Plaza 10/04/2014 11:20 16:10 19:00  
+Cgv CT Plaza 11/04/2014 11:10 15:40  
+Cgv CT Plaza 12/04/2014 11:10 15:40  
+Cgv CT Plaza 13/04/2014 11:10 15:40  
+Cgv CT Plaza 14/04/2014 11:10 15:40  
+Cgv CT Plaza 15/04/2014 11:10 15:40  
+Cgv CT Plaza 16/04/2014 11:10 15:40  
+Cgv CT Plaza 17/04/2014 11:10 15:40  
+Cgv Parkson Paragon 8/04/2014 9:45 15:30 21:10  
+Cgv Parkson Paragon 9/04/2014 9:45 15:30 21:10  
+Cgv Parkson Paragon 10/04/2014 9:45 15:30 21:10  
+Cgv Vincom Center Bà Triệu 8/04/2014 8:35 9:30 24:15 13:55 15:00 17:50 20:40  
+Cgv Vincom Center Bà Triệu 9/04/2014 9:30 24:15 15:00 17:50 20:40  
+Cgv Vincom Center Bà Triệu 10/04/2014 8:35 9:30 24:15 13:55 15:00 17:50 20:40  
+Cgv MIPEC Tower 8/04/2014 9:40 14:10  
+Cgv MIPEC Tower 9/04/2014 9:40 14:10 20:30  
+Cgv MIPEC Tower 10/04/2014 9:40 14:10  
+Cgv MIPEC Tower 11/04/2014 9:35 14:05 18:40  
+Cgv MIPEC Tower 12/04/2014 9:35 14:05 18:40  
+Cgv MIPEC Tower 13/04/2014 9:35 14:05 18:40  
+Cgv MIPEC Tower 14/04/2014 9:35 14:05 18:40  
+Cgv MIPEC Tower 15/04/2014 9:35 14:05 18:40  
+Cgv MIPEC Tower 16/04/2014 9:30 14:00 18:35  
+Cgv MIPEC Tower 17/04/2014 9:35 14:05 18:40  
+Cgv Marine Plaza 8/04/2014 10:20  
+Cgv Marine Plaza 9/04/2014 10:20  
+Cgv Marine Plaza 10/04/2014 10:20  
+Cgv Sense City 8/04/2014 8:35 17:50 20:30  
+Cgv Sense City 9/04/2014 8:20 17:50 21:45  
+Cgv Sense City 10/04/2014 9:05 17:50 21:00  
+Cgv Thùy Dương Plaza 8/04/2014 9:00 11:45 14:30 17:15 20:00  
+Cgv Thùy Dương Plaza 9/04/2014 9:00 11:45 14:30 17:15 20:00  
+Cgv Thùy Dương Plaza 10/04/2014 9:00 11:45 14:30 17:15 20:00  
+Cgv Vinh Trung Plaza 8/04/2014 8:50 13:20 21:10  
+Cgv Vinh Trung Plaza 9/04/2014 8:50 13:20 21:10  
+Cgv Vinh Trung Plaza 10/04/2014 8:50 13:20 21:10  
+Cgv Vinh Trung Plaza 11/04/2014 8:30 15:35  
+Cgv Vinh Trung Plaza 12/04/2014 8:30 15:35  
+Cgv Vinh Trung Plaza 13/04/2014 8:30 15:35  
+Cgv Vinh Trung Plaza 14/04/2014 8:30 15:35  
+Cgv Vinh Trung Plaza 15/04/2014 8:30 15:35  
+Cgv Vinh Trung Plaza 16/04/2014 8:30 15:35  
+Cgv Vinh Trung Plaza 17/04/2014 8:30 15:35  
+Cgv Siêu thị Co 8/04/2014 9:30  
+Cgv Siêu thị Co 9/04/2014 9:30  
+Cgv Siêu thị Co 10/04/2014 9:30  
+Cgv Siêu thị Co 11/04/2014 11:35 16:15 20:55  
+Cgv Siêu thị Co 12/04/2014 11:35 16:15 20:55  
+Cgv Siêu thị Co 13/04/2014 11:35 16:15 20:55  
+
+07/04/2014-21:47:27 : Begin Parse A Movie
+07/04/2014-21:47:27 : Parse movie detail at http://www.cgv.vn/vn/captain-america-2
+07/04/2014-21:47:27 : Parse ticket info
+07/04/2014-21:47:28 : Ticket info of Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:28 : Ticket info of Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:28 : Ticket info of Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:28 : Ticket info of Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:28 : Ticket info of Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:29 : Ticket info of Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:29 : Ticket info of Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:29 : Ticket info of Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:29 : Ticket info of Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:29 : Ticket info of Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:29 : Ticket info of Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:30 : Ticket info of Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:30 : Ticket info of Captain+America+2 at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=Captain+America+2&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:30 : Parsed : http://www.cgv.vn/vn/captain-america-2
+07/04/2014-21:47:30 : http://www.cgv.vn/vn/captain-america-2
+http://www.youtube.com/embed/qUXiG7AcBLI
+Captain America 2
+Anthony Russo, Joe Russo
+2 giờ và 16 phút
+Hành Động, Phiêu Lưu, KH Viễn Tưởng/ Thần Thoại
+Cgv Celadon Tân Phú 8/04/2014 9:50 10:30 24:00 24:30 14:45 15:10 15:40 16:50 17:50 18:20 19:00 19:30 20:30 21:00  
+Cgv Celadon Tân Phú 9/04/2014 9:50 10:30 11:30 24:00 24:30 13:10 14:10 14:45 15:10 15:40 16:00 16:50 17:50 18:20 19:00 19:30 20:30 21:00  
+Cgv Celadon Tân Phú 10/04/2014 9:50 10:30 24:00 24:30 14:45 15:10 15:40 16:50 17:50 18:20 19:00 19:30 20:30 21:00  
+Cgv Pandora City 7/04/2014 22:00  
+Cgv Pandora City 8/04/2014 8:30 9:50 11:20 14:00 14:25 15:10 16:40 17:10 19:20 20:00 20:50 22:00  
+Cgv Pandora City 9/04/2014 8:30 9:50 11:20 14:00 14:25 16:40 17:10 19:20 20:00 22:00  
+Cgv Pandora City 10/04/2014 8:30 9:50 11:20 14:00 14:25 15:10 16:40 17:10 19:20 20:00 20:50 22:00  
+Cgv Pandora City 11/04/2014 8:50 10:10 13:00 15:50 16:25 18:40 21:30  
+Cgv Pandora City 12/04/2014 8:50 10:10 13:00 15:50 16:25 18:40 21:30  
+Cgv Pandora City 13/04/2014 8:50 10:10 13:00 15:50 16:25 18:40 21:30  
+Cgv Crescent Mall 8/04/2014 9:00 9:40 11:40 24:20 24:50 14:20 15:00 15:30 17:00 17:40 18:50 19:40 20:20 20:30 22:20  
+Cgv Crescent Mall 9/04/2014 9:20 10:20 24:00 24:35 13:00 13:45 14:40 15:15 15:40 16:25 17:20 17:45 18:20 18:50 20:00 20:30 21:10 21:30 21:50 22:40  
+Cgv Crescent Mall 10/04/2014 9:30 10:20 24:10 24:35 13:00 14:50 15:15 15:40 17:30 18:20 19:00 20:10 20:30 21:00 22:05  
+Cgv Hùng Vương Plaza 8/04/2014 8:40 10:00 10:40 24:40 13:20 15:20 15:55 18:00 18:35 18:55 20:20 20:40 21:15 21:35 21:55  
+Cgv Hùng Vương Plaza 9/04/2014 8:45 9:55 10:20 10:55 11:40 13:00 15:15 15:40 18:20 21:00 22:50  
+Cgv Hùng Vương Plaza 10/04/2014 8:40 10:00 10:40 24:40 13:20 15:20 15:55 18:00 18:35 18:55 20:20 21:15 21:35 22:00  
+Cgv CT Plaza 7/04/2014 22:00  
+Cgv CT Plaza 8/04/2014 9:40 24:20 13:50 15:00 17:40 19:10 20:20 21:50 22:00  
+Cgv CT Plaza 9/04/2014 9:40 24:20 13:50 15:00 17:40 19:10 20:20 21:50  
+Cgv CT Plaza 10/04/2014 9:40 24:20 13:50 15:00 17:40 19:10 20:20 21:50 22:00  
+Cgv CT Plaza 11/04/2014 10:00 24:40 15:20 18:00 20:10 20:40  
+Cgv CT Plaza 12/04/2014 10:00 24:40 15:20 18:00 20:10 20:40  
+Cgv CT Plaza 13/04/2014 10:00 24:40 15:20 18:00 20:10 20:40  
+Cgv CT Plaza 14/04/2014 10:00 24:40 15:20 18:00 20:10 20:40  
+Cgv CT Plaza 15/04/2014 10:00 24:40 15:20 18:00 20:10 20:40  
+Cgv CT Plaza 16/04/2014 10:00 24:40 15:20 18:00 20:10 20:40  
+Cgv CT Plaza 17/04/2014 10:00 24:40 15:20 18:00 20:10 20:40  
+Cgv Parkson Paragon 8/04/2014 10:30 11:20 24:40 16:00 16:10 18:20 19:10 19:40 21:00  
+Cgv Parkson Paragon 9/04/2014 10:30 11:20 24:40 16:00 16:10 18:20 19:10 19:40 21:00  
+Cgv Parkson Paragon 10/04/2014 10:30 11:20 24:40 16:00 16:10 18:20 19:00 19:40 21:45  
+Cgv Parkson Paragon 11/04/2014 10:10 24:50 15:30 18:10 20:50  
+Cgv Parkson Paragon 12/04/2014 10:10 24:50 15:30 18:10 20:50  
+Cgv Parkson Paragon 13/04/2014 10:15 24:55 15:35 18:15 20:55  
+Cgv Vincom Center Bà Triệu 7/04/2014 22:05  
+Cgv Vincom Center Bà Triệu 8/04/2014 9:15 10:25 24:00 24:35 13:10 14:45 15:55 17:30 18:10 18:40 20:15 21:25  
+Cgv Vincom Center Bà Triệu 9/04/2014 9:15 10:25 24:00 13:10 14:45 15:55 17:30 18:40 20:15 21:25 23:00  
+Cgv Vincom Center Bà Triệu 10/04/2014 9:15 10:25 24:00 24:35 13:10 14:45 15:55 17:30 18:10 18:40 20:15 20:55 21:25  
+Cgv MIPEC Tower 7/04/2014 22:45  
+Cgv MIPEC Tower 8/04/2014 9:30 11:05 24:10 13:45 14:50 16:25 17:30 19:00 20:10 21:35 22:45  
+Cgv MIPEC Tower 9/04/2014 9:20 10:55 24:00 13:35 14:40 16:15 17:20 18:55 20:00 21:35 22:35 22:55  
+Cgv MIPEC Tower 10/04/2014 9:30 11:05 24:10 13:45 14:50 16:25 17:30 19:05 20:10 21:45 22:45  
+Cgv MIPEC Tower 11/04/2014 11:10 13:50 16:25 18:00 19:00 19:45 22:05  
+Cgv MIPEC Tower 12/04/2014 11:10 13:50 16:25 18:00 19:00 19:45 22:05  
+Cgv MIPEC Tower 13/04/2014 11:10 13:50 16:25 18:00 19:00 19:45 22:05  
+Cgv MIPEC Tower 14/04/2014 11:10 13:50 16:25 18:00 19:00 19:45 22:05  
+Cgv MIPEC Tower 15/04/2014 11:10 13:50 16:25 18:00 19:00 19:45 22:05  
+Cgv MIPEC Tower 16/04/2014 11:05 13:45 16:20 17:55 18:55 19:40 22:00  
+Cgv MIPEC Tower 17/04/2014 11:10 13:50 16:25 18:00 19:00 19:45 22:05  
+Cgv Marine Plaza 7/04/2014 22:25  
+Cgv Marine Plaza 8/04/2014 14:50 17:20 19:20 22:25  
+Cgv Marine Plaza 9/04/2014 14:50 17:20 19:20 22:25  
+Cgv Marine Plaza 10/04/2014 14:50 17:20 19:20 22:25  
+Cgv Sense City 8/04/2014 8:40 10:45 11:20 24:25 13:05 13:55 15:10 16:50 17:30 19:25 20:00  
+Cgv Sense City 9/04/2014 8:40 10:55 11:20 24:25 13:05 13:55 15:15 16:45 17:30 19:20 20:00 21:50  
+Cgv Sense City 10/04/2014 8:40 10:45 11:20 24:25 13:05 13:55 15:10 16:50 17:30 19:25 20:00  
+Cgv Thùy Dương Plaza 8/04/2014 8:45 10:35 11:15 13:15 13:55 15:55 16:35 17:05 18:35 19:15 19:45 21:15 21:45  
+Cgv Thùy Dương Plaza 9/04/2014 8:45 10:35 11:15 13:15 13:55 15:55 16:35 17:05 18:35 19:15 19:45 21:15 21:45  
+Cgv Thùy Dương Plaza 10/04/2014 8:45 10:35 11:15 13:15 13:55 15:55 16:35 17:05 18:35 19:15 19:45 21:15 21:45  
+Cgv Vinh Trung Plaza 8/04/2014 9:30 10:35 24:05 13:10 16:00 16:45 17:40 18:35 19:50 20:20 20:50  
+Cgv Vinh Trung Plaza 9/04/2014 9:30 10:35 24:05 13:10 16:00 17:40 18:35 20:20 20:50  
+Cgv Vinh Trung Plaza 10/04/2014 9:30 10:35 24:05 13:10 16:00 16:45 17:40 18:35 19:50 20:20 20:50  
+Cgv Vinh Trung Plaza 11/04/2014 9:40 11:10 24:15 14:50 17:25 18:15 20:00 20:50 21:50  
+Cgv Vinh Trung Plaza 12/04/2014 9:40 11:10 24:15 14:50 17:25 18:15 20:00 20:50 21:50  
+Cgv Vinh Trung Plaza 13/04/2014 9:40 11:10 24:15 14:50 17:25 18:15 20:00 20:50 21:50  
+Cgv Vinh Trung Plaza 14/04/2014 9:40 11:10 24:15 14:50 17:25 18:15 20:00 20:50 21:50  
+Cgv Vinh Trung Plaza 15/04/2014 9:40 11:10 24:15 14:50 17:25 18:15 20:00 20:50 21:50  
+Cgv Vinh Trung Plaza 16/04/2014 9:40 11:10 24:15 14:50 17:25 18:15 20:00 20:50 21:50  
+Cgv Vinh Trung Plaza 17/04/2014 9:40 11:10 24:15 14:50 17:25 18:15 20:00 20:50 21:50  
+Cgv Siêu thị Co 8/04/2014 10:25 24:40 13:05 15:20 15:45 18:00 18:25 20:40 21:05  
+Cgv Siêu thị Co 9/04/2014 10:25 24:40 13:05 15:20 15:45 18:00 18:25 20:40 21:05  
+Cgv Siêu thị Co 10/04/2014 10:25 24:40 13:05 15:20 15:45 18:00 18:25 20:40 21:05  
+Cgv Siêu thị Co 11/04/2014 10:05 24:45 15:25 18:05 18:40 20:45  
+Cgv Siêu thị Co 12/04/2014 10:05 24:45 15:25 18:05 18:40 20:45  
+Cgv Siêu thị Co 13/04/2014 10:05 24:45 15:25 18:05 18:40 20:45  
+
+07/04/2014-21:47:30 : Begin Parse A Movie
+07/04/2014-21:47:30 : Parse movie detail at http://www.cgv.vn/vn/noah
+07/04/2014-21:47:30 : Parse ticket info
+07/04/2014-21:47:30 : Ticket info of Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:31 : Ticket info of Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:31 : Ticket info of Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:31 : Ticket info of Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:31 : Ticket info of Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:31 : Ticket info of Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:31 : Ticket info of Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:31 : Ticket info of Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:31 : Ticket info of Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:31 : Ticket info of Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:31 : Ticket info of Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:32 : Ticket info of Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:32 : Ticket info of Noah at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=Noah&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:32 : Parsed : http://www.cgv.vn/vn/noah
+07/04/2014-21:47:32 : http://www.cgv.vn/vn/noah
+http://www.youtube.com/embed/2gEt3U58GbY
+Đại Hồng Thủy
+Darren Aronofsky
+2 giờ và 20 phút
+Phiêu Lưu, Tâm lý, KH Viễn Tưởng/ Thần Thoại
+Cgv Celadon Tân Phú 8/04/2014 10:00 24:50 20:15  
+Cgv Celadon Tân Phú 9/04/2014 10:00 24:50 20:15  
+Cgv Celadon Tân Phú 10/04/2014 10:00 24:50 20:15  
+Cgv Pandora City 8/04/2014 13:10 16:00 18:50 21:40  
+Cgv Pandora City 9/04/2014 13:10 16:00 18:50 21:40  
+Cgv Pandora City 10/04/2014 13:10 16:00 18:50 21:40  
+Cgv Pandora City 11/04/2014 9:50 24:40 15:30 18:20 21:10  
+Cgv Pandora City 12/04/2014 9:50 24:40 15:30 18:20 21:10  
+Cgv Pandora City 13/04/2014 9:50 24:40 15:30 18:20 21:10  
+Cgv Crescent Mall 8/04/2014 11:25 14:10 21:30  
+Cgv Crescent Mall 9/04/2014 11:25 24:45 14:10 15:30 19:05 22:10  
+Cgv Crescent Mall 10/04/2014 11:25 24:45 14:10 15:30 21:40  
+Cgv Hùng Vương Plaza 7/04/2014 22:20  
+Cgv Hùng Vương Plaza 8/04/2014 8:55 10:55 11:30 13:35 14:10 16:15 16:55 19:40 22:20  
+Cgv Hùng Vương Plaza 9/04/2014 9:20 24:05 14:45 17:30 19:35 22:20  
+Cgv Hùng Vương Plaza 10/04/2014 8:55 10:55 11:30 13:35 14:10 16:15 16:55 19:40 22:20  
+Cgv CT Plaza 8/04/2014 8:30 11:10 16:30  
+Cgv CT Plaza 9/04/2014 8:30 11:10  
+Cgv CT Plaza 10/04/2014 8:30 11:10 16:30  
+Cgv CT Plaza 11/04/2014 9:40 17:10 22:00  
+Cgv CT Plaza 12/04/2014 9:40 17:10 22:00  
+Cgv CT Plaza 13/04/2014 9:40 17:10 22:00  
+Cgv CT Plaza 14/04/2014 9:40 17:10 22:00  
+Cgv CT Plaza 15/04/2014 9:40 17:10 22:00  
+Cgv CT Plaza 16/04/2014 9:40 17:10 22:00  
+Cgv CT Plaza 17/04/2014 9:40 17:10 22:00  
+Cgv Parkson Paragon 8/04/2014 9:35 24:20 13:15 15:05 17:50 18:45 20:40 21:30  
+Cgv Parkson Paragon 9/04/2014 9:35 24:20 13:15 15:05 17:50 18:45 20:40 21:30  
+Cgv Parkson Paragon 10/04/2014 9:35 24:20 13:15 15:05 17:50 18:45 20:40 21:30  
+Cgv Vincom Center Bà Triệu 7/04/2014 22:15  
+Cgv Vincom Center Bà Triệu 8/04/2014 9:05 11:50 14:40 17:30 20:20  
+Cgv Vincom Center Bà Triệu 9/04/2014 9:05 11:50 14:40 17:30 20:20  
+Cgv Vincom Center Bà Triệu 10/04/2014 9:05 11:50 14:40 17:30 20:20  
+Cgv MIPEC Tower 7/04/2014 22:40  
+Cgv MIPEC Tower 8/04/2014 9:20 24:00 14:40 17:20 20:00 22:40  
+Cgv MIPEC Tower 9/04/2014 9:10 11:50 14:30 17:10 19:50 22:30  
+Cgv MIPEC Tower 10/04/2014 9:20 24:00 14:40 17:20 20:00 22:40  
+Cgv MIPEC Tower 11/04/2014 9:15 24:00 17:00  
+Cgv MIPEC Tower 12/04/2014 9:15 24:00 17:00  
+Cgv MIPEC Tower 13/04/2014 9:15 24:00 17:00  
+Cgv MIPEC Tower 14/04/2014 9:15 24:00 17:00  
+Cgv MIPEC Tower 15/04/2014 9:15 24:00 17:00  
+Cgv MIPEC Tower 16/04/2014 9:10 11:55 16:55  
+Cgv MIPEC Tower 17/04/2014 9:15 24:00 17:00  
+Cgv Marine Plaza 8/04/2014 24:15 19:50 21:55  
+Cgv Marine Plaza 9/04/2014 24:15 19:50 21:55  
+Cgv Marine Plaza 10/04/2014 24:15 19:50 21:55  
+Cgv Sense City 8/04/2014 11:10 13:45 19:00  
+Cgv Sense City 9/04/2014 10:35 13:10 19:00  
+Cgv Sense City 10/04/2014 11:40 14:15 19:00  
+Cgv Thùy Dương Plaza 8/04/2014 10:00 24:45 15:30 18:15 21:00  
+Cgv Thùy Dương Plaza 9/04/2014 10:00 24:45 15:30 18:15 21:00  
+Cgv Thùy Dương Plaza 10/04/2014 10:00 24:45 15:30 18:15 21:00  
+Cgv Vinh Trung Plaza 8/04/2014 8:30 11:10 13:50 19:10 21:50  
+Cgv Vinh Trung Plaza 9/04/2014 8:30 11:10 13:50 19:10 21:50  
+Cgv Vinh Trung Plaza 10/04/2014 8:30 11:10 13:50 19:10 21:50  
+Cgv Vinh Trung Plaza 11/04/2014 11:25 16:35  
+Cgv Vinh Trung Plaza 12/04/2014 11:25 16:35  
+Cgv Vinh Trung Plaza 13/04/2014 11:25 16:35  
+Cgv Vinh Trung Plaza 14/04/2014 11:25 16:35  
+Cgv Vinh Trung Plaza 15/04/2014 11:25 16:35  
+Cgv Vinh Trung Plaza 16/04/2014 11:25 16:35  
+Cgv Vinh Trung Plaza 17/04/2014 11:25 16:35  
+Cgv Siêu thị Co 7/04/2014 22:00  
+Cgv Siêu thị Co 8/04/2014 9:05 11:50 14:35 17:20 22:00  
+Cgv Siêu thị Co 9/04/2014 9:05 11:50 14:35 17:20 22:00  
+Cgv Siêu thị Co 10/04/2014 9:05 11:50 14:35 17:20 22:00  
+Cgv Siêu thị Co 11/04/2014 9:30 14:10 18:50  
+Cgv Siêu thị Co 12/04/2014 9:30 14:10 18:50  
+Cgv Siêu thị Co 13/04/2014 9:30 14:10 18:50  
+
+07/04/2014-21:47:32 : Begin Parse A Movie
+07/04/2014-21:47:32 : Parse movie detail at http://www.cgv.vn/vn/3d-300-rise-of-an-empire
+07/04/2014-21:47:32 : Parse ticket info
+07/04/2014-21:47:32 : Ticket info of 3D+300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=3D+300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:32 : Ticket info of 3D+300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=3D+300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:32 : Ticket info of 3D+300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=3D+300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:32 : Ticket info of 3D+300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=3D+300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:32 : Ticket info of 3D+300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=3D+300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:32 : Ticket info of 3D+300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=3D+300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:32 : Ticket info of 3D+300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=3D+300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:32 : Ticket info of 3D+300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=3D+300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:32 : Ticket info of 3D+300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=3D+300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:32 : Ticket info of 3D+300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=3D+300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:32 : Ticket info of 3D+300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=3D+300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:32 : Ticket info of 3D+300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=3D+300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:32 : Ticket info of 3D+300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=3D+300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:32 : Parsed : http://www.cgv.vn/vn/3d-300-rise-of-an-empire
+07/04/2014-21:47:32 : http://www.cgv.vn/vn/3d-300-rise-of-an-empire
+http://www.youtube.com/embed/nnURAVHIJb8
+3D 300 Đế Chế Trỗi Dậy
+Noam Murro
+1 giờ và 33 phút
+Hành Động, Tâm lý, Chiến Tranh
+Cgv Sense City 8/04/2014 14:25  
+Cgv Sense City 9/04/2014 14:10  
+Cgv Sense City 10/04/2014 14:25  
+
+07/04/2014-21:47:32 : Begin Parse A Movie
+07/04/2014-21:47:33 : Parse movie detail at http://www.cgv.vn/vn/3d-need-for-speed
+07/04/2014-21:47:33 : Parse ticket info
+07/04/2014-21:47:34 : Ticket info of 3D+Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=3D+Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:34 : Ticket info of 3D+Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=3D+Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:34 : Ticket info of 3D+Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=3D+Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:34 : Ticket info of 3D+Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=3D+Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:34 : Ticket info of 3D+Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=3D+Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:34 : Ticket info of 3D+Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=3D+Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:34 : Ticket info of 3D+Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=3D+Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:34 : Ticket info of 3D+Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=3D+Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:34 : Ticket info of 3D+Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=3D+Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:34 : Ticket info of 3D+Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=3D+Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:34 : Ticket info of 3D+Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=3D+Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:34 : Ticket info of 3D+Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=3D+Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:34 : Ticket info of 3D+Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=3D+Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:34 : Parsed : http://www.cgv.vn/vn/3d-need-for-speed
+07/04/2014-21:47:34 : http://www.cgv.vn/vn/3d-need-for-speed
+http://www.youtube.com/embed/HZvXtywo7PE
+3D Đam Mê Tốc Độ
+Scott Waugh
+2 giờ và 22 phút
+Hành Động, Tội Phạm/ Băng nhóm, Tâm lý
+Cgv Vincom Center Bà Triệu 8/04/2014 8:30 14:00  
+Cgv Vincom Center Bà Triệu 9/04/2014 8:30  
+Cgv Vincom Center Bà Triệu 10/04/2014 8:30 14:00  
+
+07/04/2014-21:47:34 : Begin Parse A Movie
+07/04/2014-21:47:34 : Parse movie detail at http://www.cgv.vn/vn/miss-granny
+07/04/2014-21:47:35 : Parse ticket info
+07/04/2014-21:47:35 : Ticket info of Miss+Granny at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=Miss+Granny&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:35 : Ticket info of Miss+Granny at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=Miss+Granny&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:35 : Ticket info of Miss+Granny at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=Miss+Granny&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:35 : Ticket info of Miss+Granny at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=Miss+Granny&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:35 : Ticket info of Miss+Granny at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=Miss+Granny&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:35 : Ticket info of Miss+Granny at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=Miss+Granny&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:35 : Ticket info of Miss+Granny at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=Miss+Granny&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:35 : Ticket info of Miss+Granny at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=Miss+Granny&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:35 : Ticket info of Miss+Granny at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=Miss+Granny&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:35 : Ticket info of Miss+Granny at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=Miss+Granny&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:36 : Ticket info of Miss+Granny at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=Miss+Granny&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:36 : Ticket info of Miss+Granny at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=Miss+Granny&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:36 : Ticket info of Miss+Granny at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=Miss+Granny&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:36 : Parsed : http://www.cgv.vn/vn/miss-granny
+07/04/2014-21:47:36 : http://www.cgv.vn/vn/miss-granny
+http://www.youtube.com/embed/XeiO4LJAxTs
+Ngoại Già Tuổi Đôi Mươi
+Hwang Dong-Hyeuk
+2 giờ và 4 phút
+Hài
+Cgv Celadon Tân Phú 8/04/2014 8:00 9:30 17:40  
+Cgv Celadon Tân Phú 9/04/2014 8:00 9:30 17:40  
+Cgv Celadon Tân Phú 10/04/2014 8:00 9:30 17:40  
+Cgv Pandora City 8/04/2014 9:20 11:50  
+Cgv Pandora City 9/04/2014 9:20 11:50  
+Cgv Pandora City 10/04/2014 9:20 11:50  
+Cgv Crescent Mall 8/04/2014 9:20 16:05  
+Cgv Crescent Mall 9/04/2014 9:20  
+Cgv Crescent Mall 10/04/2014 9:20 16:05  
+Cgv Hùng Vương Plaza 8/04/2014 9:50 14:20  
+Cgv Hùng Vương Plaza 9/04/2014 8:30 14:25  
+Cgv Hùng Vương Plaza 10/04/2014 9:50 14:20  
+Cgv CT Plaza 8/04/2014 8:50 19:40 21:40  
+Cgv CT Plaza 9/04/2014 8:50 21:40  
+Cgv CT Plaza 10/04/2014 8:50 19:40 21:40  
+Cgv CT Plaza 11/04/2014 8:50 15:50  
+Cgv CT Plaza 12/04/2014 8:50 15:50  
+Cgv CT Plaza 13/04/2014 8:50 15:50  
+Cgv CT Plaza 14/04/2014 8:50 15:50  
+Cgv CT Plaza 15/04/2014 8:50 15:50  
+Cgv CT Plaza 16/04/2014 8:50 15:50  
+Cgv CT Plaza 17/04/2014 8:50 15:50  
+Cgv Vincom Center Bà Triệu 8/04/2014 10:30 14:55 19:25  
+Cgv Vincom Center Bà Triệu 9/04/2014 10:30 14:55 19:25  
+Cgv Vincom Center Bà Triệu 10/04/2014 10:30 14:55 19:25  
+Cgv MIPEC Tower 8/04/2014 11:35 16:25 18:50 21:15  
+Cgv MIPEC Tower 9/04/2014 11:20 13:45 16:05 18:25 20:45 23:05  
+Cgv MIPEC Tower 10/04/2014 11:35 16:25 18:50 21:15  
+Cgv MIPEC Tower 11/04/2014 9:10 14:40 22:25  
+Cgv MIPEC Tower 12/04/2014 9:10 14:40 22:25  
+Cgv MIPEC Tower 13/04/2014 9:10 14:40 22:25  
+Cgv MIPEC Tower 14/04/2014 9:10 14:40 22:25  
+Cgv MIPEC Tower 15/04/2014 9:10 14:40 22:25  
+Cgv MIPEC Tower 16/04/2014 9:05 14:35 22:20  
+Cgv MIPEC Tower 17/04/2014 9:10 14:40 22:25  
+Cgv Sense City 7/04/2014 22:00  
+Cgv Sense City 8/04/2014 16:25 22:00  
+Cgv Sense City 9/04/2014 8:20 15:50  
+Cgv Sense City 10/04/2014 16:55 22:00  
+Cgv Thùy Dương Plaza 7/04/2014 22:10  
+Cgv Thùy Dương Plaza 8/04/2014 13:05 15:45 22:10  
+Cgv Thùy Dương Plaza 9/04/2014 13:05 15:45 22:10  
+Cgv Thùy Dương Plaza 10/04/2014 13:05 15:45 22:10  
+Cgv Vinh Trung Plaza 8/04/2014 24:30 16:30  
+Cgv Vinh Trung Plaza 9/04/2014 24:45 16:30  
+Cgv Vinh Trung Plaza 10/04/2014 24:30 16:30  
+Cgv Siêu thị Co 7/04/2014 22:20  
+Cgv Siêu thị Co 8/04/2014 8:50 14:10 22:20  
+Cgv Siêu thị Co 9/04/2014 8:50 14:10 22:20  
+Cgv Siêu thị Co 10/04/2014 8:50 14:10 22:20  
+
+07/04/2014-21:47:36 : Begin Parse A Movie
+07/04/2014-21:47:36 : Parse movie detail at http://www.cgv.vn/vn/300-rise-of-an-empire
+07/04/2014-21:47:36 : Parse ticket info
+07/04/2014-21:47:36 : Ticket info of 300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:36 : Ticket info of 300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:36 : Ticket info of 300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:36 : Ticket info of 300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:36 : Ticket info of 300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:36 : Ticket info of 300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:36 : Ticket info of 300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Ticket info of 300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Ticket info of 300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Ticket info of 300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Ticket info of 300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Ticket info of 300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Ticket info of 300+Rise+Of+An+Empire at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=300+Rise+Of+An+Empire&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Parsed : http://www.cgv.vn/vn/300-rise-of-an-empire
+07/04/2014-21:47:37 : http://www.cgv.vn/vn/300-rise-of-an-empire
+http://www.youtube.com/embed/nnURAVHIJb8
+300 Đế Chế Trỗi Dậy
+Noam Murro
+1 giờ và 33 phút
+Hành Động, Tâm lý, Chiến Tranh
+Cgv Celadon Tân Phú 8/04/2014 13:10 15:05 17:10 21:10  
+Cgv Celadon Tân Phú 9/04/2014 20:45  
+Cgv Celadon Tân Phú 10/04/2014 13:10 15:05 17:10 21:10  
+Cgv Pandora City 8/04/2014 11:30 13:30 17:30 19:35 21:40  
+Cgv Pandora City 9/04/2014 11:30 13:30 21:40  
+Cgv Pandora City 10/04/2014 11:30 13:30 17:30 19:35 21:40  
+Cgv Crescent Mall 7/04/2014 22:50  
+Cgv Crescent Mall 8/04/2014 11:45 22:50  
+Cgv Crescent Mall 10/04/2014 11:45 22:50  
+Cgv Hùng Vương Plaza 8/04/2014 8:50 18:25  
+Cgv Hùng Vương Plaza 9/04/2014 8:30  
+Cgv Hùng Vương Plaza 10/04/2014 8:50 18:25  
+Cgv CT Plaza 8/04/2014 9:00 13:10 17:45  
+Cgv CT Plaza 10/04/2014 9:00 13:10 17:45  
+Cgv Parkson Paragon 8/04/2014 9:20 14:10 19:00  
+Cgv Parkson Paragon 9/04/2014 9:20 14:10 19:00  
+Cgv Parkson Paragon 10/04/2014 9:20 14:10 18:50  
+Cgv Vincom Center Bà Triệu 8/04/2014 9:05 13:20 17:40  
+Cgv Vincom Center Bà Triệu 9/04/2014 9:05  
+Cgv Vincom Center Bà Triệu 10/04/2014 9:05 13:20 17:40  
+Cgv Marine Plaza 8/04/2014 15:15  
+Cgv Marine Plaza 9/04/2014 15:15  
+Cgv Marine Plaza 10/04/2014 15:15  
+Cgv Sense City 7/04/2014 22:20  
+Cgv Sense City 8/04/2014 22:20  
+Cgv Sense City 9/04/2014 22:20  
+Cgv Sense City 10/04/2014 22:20  
+Cgv Thùy Dương Plaza 8/04/2014 11:10 15:35 17:30 21:55  
+Cgv Thùy Dương Plaza 9/04/2014 11:10 15:35 21:55  
+Cgv Thùy Dương Plaza 10/04/2014 11:10 15:35 17:30 21:55  
+Cgv Vinh Trung Plaza 8/04/2014 8:40  
+Cgv Vinh Trung Plaza 10/04/2014 8:40  
+Cgv Siêu thị Co 8/04/2014 8:50 10:45  
+Cgv Siêu thị Co 9/04/2014 8:50 10:45  
+Cgv Siêu thị Co 10/04/2014 8:50 10:45  
+
+07/04/2014-21:47:37 : Begin Parse A Movie
+07/04/2014-21:47:37 : Parse movie detail at http://www.cgv.vn/vn/need-for-speed
+07/04/2014-21:47:37 : Parse ticket info
+07/04/2014-21:47:37 : Ticket info of Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Ticket info of Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Ticket info of Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Ticket info of Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Ticket info of Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Ticket info of Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Ticket info of Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Ticket info of Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Ticket info of Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Ticket info of Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:37 : Ticket info of Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:38 : Ticket info of Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:38 : Ticket info of Need+For+Speed at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=Need+For+Speed&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:38 : Parsed : http://www.cgv.vn/vn/need-for-speed
+07/04/2014-21:47:38 : http://www.cgv.vn/vn/need-for-speed
+http://www.youtube.com/embed/HZvXtywo7PE
+Đam Mê Tốc Độ
+Scott Waugh
+2 giờ và 22 phút
+Hành Động, Tội Phạm/ Băng nhóm, Tâm lý
+Cgv Thùy Dương Plaza 8/04/2014 8:45  
+Cgv Thùy Dương Plaza 9/04/2014 8:45  
+Cgv Thùy Dương Plaza 10/04/2014 8:45  
+
+07/04/2014-21:47:38 : Begin Parse A Movie
+07/04/2014-21:47:38 : Parse movie detail at http://www.cgv.vn/vn/non-stop
+07/04/2014-21:47:38 : Parse ticket info
+07/04/2014-21:47:38 : Ticket info of Non+stop at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=Non+stop&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:38 : Ticket info of Non+stop at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=Non+stop&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:38 : Ticket info of Non+stop at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=Non+stop&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:38 : Ticket info of Non+stop at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=Non+stop&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:38 : Ticket info of Non+stop at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=Non+stop&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:38 : Ticket info of Non+stop at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=Non+stop&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:38 : Ticket info of Non+stop at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=Non+stop&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:38 : Ticket info of Non+stop at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=Non+stop&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:38 : Ticket info of Non+stop at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=Non+stop&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:38 : Ticket info of Non+stop at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=Non+stop&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:38 : Ticket info of Non+stop at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=Non+stop&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:38 : Ticket info of Non+stop at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=Non+stop&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:38 : Ticket info of Non+stop at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=Non+stop&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:38 : Parsed : http://www.cgv.vn/vn/non-stop
+07/04/2014-21:47:38 : http://www.cgv.vn/vn/non-stop
+http://www.youtube.com/embed/EaVU_hB6xJs
+Non stop
+Jaume Collet-Serra
+1 giờ và 44 phút
+Hành Động, Hình sự/ Hồi hộp
+Cgv Vincom Center Bà Triệu 8/04/2014 11:05 15:25 19:40 21:50  
+Cgv Vincom Center Bà Triệu 9/04/2014 11:05  
+Cgv Vincom Center Bà Triệu 10/04/2014 11:05 15:25 19:40 21:50  
+Cgv Thùy Dương Plaza 8/04/2014 13:30  
+Cgv Thùy Dương Plaza 9/04/2014 13:30  
+Cgv Thùy Dương Plaza 10/04/2014 13:30  
+
+07/04/2014-21:47:38 : Begin Parse A Movie
+07/04/2014-21:47:38 : Parse movie detail at http://www.cgv.vn/vn/3d-mr-peabody-and-sherman-vn-dubbed-
+07/04/2014-21:47:39 : Parse ticket info
+07/04/2014-21:47:39 : Ticket info of 3D+Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=3D+Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:39 : Ticket info of 3D+Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=3D+Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:39 : Ticket info of 3D+Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=3D+Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:39 : Ticket info of 3D+Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=3D+Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:39 : Ticket info of 3D+Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=3D+Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:39 : Ticket info of 3D+Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=3D+Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:39 : Ticket info of 3D+Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=3D+Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:39 : Ticket info of 3D+Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=3D+Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:39 : Ticket info of 3D+Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=3D+Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:39 : Ticket info of 3D+Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=3D+Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:39 : Ticket info of 3D+Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=3D+Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:39 : Ticket info of 3D+Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=3D+Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:39 : Ticket info of 3D+Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=3D+Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:39 : Parsed : http://www.cgv.vn/vn/3d-mr-peabody-and-sherman-vn-dubbed-
+07/04/2014-21:47:39 : http://www.cgv.vn/vn/3d-mr-peabody-and-sherman-vn-dubbed-
+http://www.youtube.com/embed/rV77wdu5qK8
+3D Mr Peabody And Sherman (Lồng Tiếng)
+Rob Minkoff
+1 giờ và 32 phút
+Phiêu Lưu, Hoạt Hình, Hài
+
+07/04/2014-21:47:39 : Begin Parse A Movie
+07/04/2014-21:47:39 : Parse movie detail at http://www.cgv.vn/vn/3d-mr-peabody-and-sherman
+07/04/2014-21:47:40 : Parse ticket info
+07/04/2014-21:47:40 : Ticket info of 3D+Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=3D+Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:40 : Ticket info of 3D+Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=3D+Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:40 : Ticket info of 3D+Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=3D+Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:40 : Ticket info of 3D+Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=3D+Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:40 : Ticket info of 3D+Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=3D+Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:40 : Ticket info of 3D+Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=3D+Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:40 : Ticket info of 3D+Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=3D+Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:40 : Ticket info of 3D+Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=3D+Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:40 : Ticket info of 3D+Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=3D+Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:40 : Ticket info of 3D+Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=3D+Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:40 : Ticket info of 3D+Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=3D+Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:40 : Ticket info of 3D+Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=3D+Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:40 : Ticket info of 3D+Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=3D+Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:40 : Parsed : http://www.cgv.vn/vn/3d-mr-peabody-and-sherman
+07/04/2014-21:47:40 : http://www.cgv.vn/vn/3d-mr-peabody-and-sherman
+http://www.youtube.com/embed/rV77wdu5qK8
+3D Mr Peabody And Sherman
+Rob Minkoff
+1 giờ và 32 phút
+Phiêu Lưu, Hoạt Hình, Hài
+Cgv Crescent Mall 10/04/2014 20:40  
+
+07/04/2014-21:47:40 : Begin Parse A Movie
+07/04/2014-21:47:40 : Parse movie detail at http://www.cgv.vn/vn/mr-peabody-and-sherman-vn-dubbed-
+07/04/2014-21:47:40 : Parse ticket info
+07/04/2014-21:47:40 : Ticket info of Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:40 : Ticket info of Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman+(VN+Dubbed) at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=Mr+Peabody+And+Sherman+(VN+Dubbed)&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Parsed : http://www.cgv.vn/vn/mr-peabody-and-sherman-vn-dubbed-
+07/04/2014-21:47:41 : http://www.cgv.vn/vn/mr-peabody-and-sherman-vn-dubbed-
+http://www.youtube.com/embed/rV77wdu5qK8
+Mr Peabody And Sherman (Lồng Tiếng)
+Rob Minkoff
+1 giờ và 32 phút
+Phiêu Lưu, Hoạt Hình, Hài
+Cgv Celadon Tân Phú 8/04/2014 19:15  
+Cgv Celadon Tân Phú 9/04/2014 9:40 11:40 18:45  
+Cgv Celadon Tân Phú 10/04/2014 19:15  
+Cgv Pandora City 8/04/2014 9:30 11:10 15:30  
+Cgv Pandora City 9/04/2014 9:30 11:10 15:30 17:30 19:35  
+Cgv Pandora City 10/04/2014 9:30 11:10 15:30  
+Cgv Crescent Mall 8/04/2014 10:50 20:10  
+Cgv Crescent Mall 9/04/2014 10:50 20:10  
+Cgv Crescent Mall 10/04/2014 10:50 20:10  
+Cgv Hùng Vương Plaza 8/04/2014 17:05  
+Cgv Hùng Vương Plaza 9/04/2014 9:40 16:50  
+Cgv Hùng Vương Plaza 10/04/2014 17:05  
+Cgv Parkson Paragon 8/04/2014 9:30 11:30  
+Cgv Parkson Paragon 9/04/2014 9:30 11:30  
+Cgv Parkson Paragon 10/04/2014 9:30 11:30  
+
+07/04/2014-21:47:41 : Begin Parse A Movie
+07/04/2014-21:47:41 : Parse movie detail at http://www.cgv.vn/vn/mr-peabody-and-sherman
+07/04/2014-21:47:41 : Parse ticket info
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:41 : Ticket info of Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Mr+Peabody+And+Sherman at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=Mr+Peabody+And+Sherman&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Parsed : http://www.cgv.vn/vn/mr-peabody-and-sherman
+07/04/2014-21:47:42 : http://www.cgv.vn/vn/mr-peabody-and-sherman
+http://www.youtube.com/embed/rV77wdu5qK8
+Mr Peabody And Sherman
+Rob Minkoff
+1 giờ và 32 phút
+Phiêu Lưu, Hoạt Hình, Hài
+Cgv Crescent Mall 7/04/2014 22:05  
+Cgv Crescent Mall 8/04/2014 8:55 18:15 22:05  
+Cgv Crescent Mall 9/04/2014 8:55 18:15  
+Cgv Crescent Mall 10/04/2014 8:55 18:15  
+
+07/04/2014-21:47:42 : Begin Parse A Movie
+07/04/2014-21:47:42 : Parse movie detail at http://www.cgv.vn/vn/qua-tim-mau
+07/04/2014-21:47:42 : Parse ticket info
+07/04/2014-21:47:42 : Ticket info of Qua+Tim+Mau at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1012&&MovieName=Qua+Tim+Mau&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Qua+Tim+Mau at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1010&&MovieName=Qua+Tim+Mau&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Qua+Tim+Mau at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1009&&MovieName=Qua+Tim+Mau&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Qua+Tim+Mau at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1004&&MovieName=Qua+Tim+Mau&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Qua+Tim+Mau at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1006&&MovieName=Qua+Tim+Mau&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Qua+Tim+Mau at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1007&&MovieName=Qua+Tim+Mau&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Qua+Tim+Mau at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1001&&MovieName=Qua+Tim+Mau&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Qua+Tim+Mau at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1008&&MovieName=Qua+Tim+Mau&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Qua+Tim+Mau at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1011&&MovieName=Qua+Tim+Mau&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Qua+Tim+Mau at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1013&&MovieName=Qua+Tim+Mau&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Qua+Tim+Mau at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1002&&MovieName=Qua+Tim+Mau&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Qua+Tim+Mau at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1005&&MovieName=Qua+Tim+Mau&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Ticket info of Qua+Tim+Mau at https://www.cgv.vn/megastarXMLData.aspx?RequestType=GetSessionTimes&&CinemaID=1003&&MovieName=Qua+Tim+Mau&&Time=TodayAndTomorrow&&visLang=1
+07/04/2014-21:47:42 : Parsed : http://www.cgv.vn/vn/qua-tim-mau
+07/04/2014-21:47:42 : http://www.cgv.vn/vn/qua-tim-mau
+http://www.youtube.com/embed/fK26JdsTknY
+Quả Tim Máu
+Victor Vũ
+1 giờ và 30 phút
+Kinh Dị
+
+07/04/2014-21:47:42 : Finish parsing 41 movies.
+07/04/2014-21:47:42 : =============Save To DB

@@ -1,0 +1,15 @@
+C:\Users\khoat_000\Documents\Visual Studio 2010\Projects\MovieSchedulerParser\MovieSchedulerParser\bin\Debug\MovieSchedulerParser.exe
+C:\Users\khoat_000\Documents\Visual Studio 2010\Projects\MovieSchedulerParser\MovieSchedulerParser\bin\Debug\MovieSchedulerParser.pdb
+C:\Users\khoat_000\Documents\Visual Studio 2010\Projects\MovieSchedulerParser\MovieSchedulerParser\bin\Debug\Antlr3.Runtime.dll
+C:\Users\khoat_000\Documents\Visual Studio 2010\Projects\MovieSchedulerParser\MovieSchedulerParser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\khoat_000\Documents\Visual Studio 2010\Projects\MovieSchedulerParser\MovieSchedulerParser\bin\Debug\System.Web.Razor.dll
+C:\Users\khoat_000\Documents\Visual Studio 2010\Projects\MovieSchedulerParser\MovieSchedulerParser\bin\Debug\WebGrease.dll
+C:\Users\khoat_000\Documents\Visual Studio 2010\Projects\MovieSchedulerParser\MovieSchedulerParser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\khoat_000\Documents\Visual Studio 2010\Projects\MovieSchedulerParser\MovieSchedulerParser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\khoat_000\Documents\Visual Studio 2010\Projects\MovieSchedulerParser\MovieSchedulerParser\bin\Debug\System.Web.Razor.xml
+C:\Users\khoat_000\Documents\Visual Studio 2010\Projects\MovieSchedulerParser\MovieSchedulerParser\obj\x86\Debug\MovieSchedulerParser.csprojResolveAssemblyReference.cache
+C:\Users\khoat_000\Documents\Visual Studio 2010\Projects\MovieSchedulerParser\MovieSchedulerParser\obj\x86\Debug\MovieSchedulerParser.Properties.Resources.resources
+C:\Users\khoat_000\Documents\Visual Studio 2010\Projects\MovieSchedulerParser\MovieSchedulerParser\obj\x86\Debug\MovieSchedulerParser.csproj.GenerateResource.Cache
+C:\Users\khoat_000\Documents\Visual Studio 2010\Projects\MovieSchedulerParser\MovieSchedulerParser\obj\x86\Debug\MovieSchedulerParser.exe
+C:\Users\khoat_000\Documents\Visual Studio 2010\Projects\MovieSchedulerParser\MovieSchedulerParser\obj\x86\Debug\MovieSchedulerParser.pdb
+C:\Users\khoat_000\Documents\Visual Studio 2010\Projects\MovieSchedulerParser\MovieSchedulerParser\bin\Debug\MovieSchedulerParser.exe.config
